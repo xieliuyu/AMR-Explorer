@@ -20,12 +20,18 @@ How do reported antimicrobial resistance patterns vary over time across selected
 
 ## Data Source
 
-The intended primary data source is the WHO Global Antimicrobial Resistance and Use Surveillance System (GLASS).
+Data were downloaded from the [WHO GLASS Dashboard](https://worldhealthorg.shinyapps.io/glass-dashboard/) on [DATE] as CSV files.
 
-- [WHO AMR Dashboard](https://data.who.int/dashboards/amr)
-- [WHO GLASS Dashboard](https://worldhealthorg.shinyapps.io/glass-dashboard/)
+| Pathogen | Antibiotic(s) | File(s) |
+|---|---|---|
+| *Escherichia coli* | Third-generation cephalosporins, ceftriaxone, ciprofloxacin | `ecoli_3gc.csv`, `ecoli_ceftriaxone.csv`, `ecoli_ciprofloxacin.csv` |
+| *Streptococcus pneumoniae* | Ceftriaxone, penicillin | `pneumonia_cefriaxone.csv`, `pneumonia_penicillin.csv` |
+| *Salmonella* spp. | Ceftriaxone, ciprofloxacin | `salmonella_cefriaxone.csv`, `salmonella_ciproflaxin.csv` |
+| *Staphylococcus aureus* | Methicillin (MRSA) | `straphylococcusareus_methicillin.csv` |
 
-The specific dataset, available variables, reporting period, and indicator definitions will be verified before analysis.
+- **Reporting period:** [e.g. 2018–2023]
+- **Countries:** [list, or "all countries reporting to GLASS"]
+- **Main variable:** resistance proportion (%), [plus number of isolates tested, if included]
 
 ## Tools and Technologies
 
@@ -63,4 +69,17 @@ AI assistance will be documented throughout the project, including prompts, code
 
 ## License
 
-A license has not yet been selected. The licensing arrangements for the application code and the source dataset will be considered before distribution.
+The code in this repository is licensed under [LICENSE NAME]; see `LICENSE.md`.
+The data in `data/` are from WHO GLASS and remain subject to WHO's terms of use; they are not covered by this repository's license.
+
+## How to Run the App
+
+1. Download this repository (green **Code** button → **Download ZIP**) and unzip it.
+2. Open `AMR_Explorer.Rproj` in RStudio.
+3. Install the required packages by running this in the Console:
+   ```r
+   renv::restore()
+   ```
+4. Open `app.R` and click **Run App**.
+
+Requires R (version 4.6.1 was used for development) and RStudio.
