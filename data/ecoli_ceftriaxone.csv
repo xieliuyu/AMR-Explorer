@@ -1,0 +1,132 @@
+Filters
+Region filter: All
+Infection type filter: Bloodstream
+Bacterial pathogen filter: Escherichia coli
+Antibiotic filter: Ceftriaxone
+
+Data for time series
+"Year","Specimen","PathogenName","AbTargets","Min","Q1","Median","Q3","Max"
+2018,"BLOOD","Escherichia coli","Ceftriaxone",10.191082803,33.837111671,53.93258427,72.25433526,97.872340426
+2019,"BLOOD","Escherichia coli","Ceftriaxone",6.539265452,16.812210778,39.743589744,56.029919448,88.874172185
+2020,"BLOOD","Escherichia coli","Ceftriaxone",6.386418755,16.610806864,39.745750808,64.051282051,86.813186813
+2021,"BLOOD","Escherichia coli","Ceftriaxone",6.318849449,14.242532006,33.955705738,53.039161611,85.037211124
+2022,"BLOOD","Escherichia coli","Ceftriaxone",5.889908257,16.021515391,39.784946237,60.969133754,86.666666667
+2023,"BLOOD","Escherichia coli","Ceftriaxone",6.399437412,16.94425906,37.214513625,56.436359965,88.235294118
+
+
+Data for line plots for individual CTAs
+"Iso3","CountryTerritoryArea","WHORegionName","Year","Specimen","PathogenName","AbTargets","TotalSpecimenIsolates","InterpretableAST","Resistant","PercentResistant"
+"BHR","Bahrain","Eastern Mediterranean Region",2018,"BLOOD","Escherichia coli","Ceftriaxone",633,199,86,43.216080402
+"BIH","Bosnia and Herzegovina","European Region",2018,"BLOOD","Escherichia coli","Ceftriaxone",841,248,48,19.35483871
+"BRA","Brazil","Region of the Americas",2018,"BLOOD","Escherichia coli","Ceftriaxone",314,82,13,15.853658537
+"GEO","Georgia","European Region",2018,"BLOOD","Escherichia coli","Ceftriaxone",216,50,27,54
+"IND","India","South-East Asia Region",2018,"BLOOD","Escherichia coli","Ceftriaxone",14459,55,48,87.272727273
+"IDN","Indonesia","South-East Asia Region",2018,"BLOOD","Escherichia coli","Ceftriaxone",1381,346,250,72.25433526
+"IRN","Iran (Islamic Republic of)","Eastern Mediterranean Region",2018,"BLOOD","Escherichia coli","Ceftriaxone",1826,173,114,65.895953757
+"JPN","Japan","Western Pacific Region",2018,"BLOOD","Escherichia coli","Ceftriaxone",126859,50510,10163,20.120768165
+"JOR","Jordan","Eastern Mediterranean Region",2018,"BLOOD","Escherichia coli","Ceftriaxone",345,88,54,61.363636364
+"LAO","Lao People's Democratic Republic","Western Pacific Region",2018,"BLOOD","Escherichia coli","Ceftriaxone",275,109,50,45.871559633
+"MLI","Mali","African Region",2018,"BLOOD","Escherichia coli","Ceftriaxone",422,78,25,32.051282051
+"MKD","North Macedonia","European Region",2018,"BLOOD","Escherichia coli","Ceftriaxone",176,52,41,78.846153846
+"OMN","Oman","Eastern Mediterranean Region",2018,"BLOOD","Escherichia coli","Ceftriaxone",631,178,96,53.93258427
+"PAK","Pakistan","Eastern Mediterranean Region",2018,"BLOOD","Escherichia coli","Ceftriaxone",7410,156,133,85.256410256
+"PHL","Philippines","Western Pacific Region",2018,"BLOOD","Escherichia coli","Ceftriaxone",5595,1191,403,33.837111671
+"SAU","Saudi Arabia","Eastern Mediterranean Region",2018,"BLOOD","Escherichia coli","Ceftriaxone",2420,480,262,54.583333333
+"CHE","Switzerland","European Region",2018,"BLOOD","Escherichia coli","Ceftriaxone",19539,11775,1200,10.191082803
+"THA","Thailand","South-East Asia Region",2018,"BLOOD","Escherichia coli","Ceftriaxone",2629,1029,371,36.054421769
+"ARE","United Arab Emirates","Eastern Mediterranean Region",2018,"BLOOD","Escherichia coli","Ceftriaxone",2452,209,100,47.846889952
+"BHR","Bahrain","Eastern Mediterranean Region",2019,"BLOOD","Escherichia coli","Ceftriaxone",780,197,106,53.807106599
+"BIH","Bosnia and Herzegovina","European Region",2019,"BLOOD","Escherichia coli","Ceftriaxone",1020,288,57,19.791666667
+"BRA","Brazil","Region of the Americas",2019,"BLOOD","Escherichia coli","Ceftriaxone",606,155,43,27.741935484
+"GEO","Georgia","European Region",2019,"BLOOD","Escherichia coli","Ceftriaxone",433,76,42,55.263157895
+"IND","India","South-East Asia Region",2019,"BLOOD","Escherichia coli","Ceftriaxone",24223,424,320,75.471698113
+"IDN","Indonesia","South-East Asia Region",2019,"BLOOD","Escherichia coli","Ceftriaxone",2314,576,404,70.138888889
+"IRN","Iran (Islamic Republic of)","Eastern Mediterranean Region",2019,"BLOOD","Escherichia coli","Ceftriaxone",2277,484,328,67.768595041
+"JPN","Japan","Western Pacific Region",2019,"BLOOD","Escherichia coli","Ceftriaxone",136246,53211,11147,20.948676026
+"JOR","Jordan","Eastern Mediterranean Region",2019,"BLOOD","Escherichia coli","Ceftriaxone",627,146,97,66.438356164
+"LAO","Lao People's Democratic Republic","Western Pacific Region",2019,"BLOOD","Escherichia coli","Ceftriaxone",314,100,50,50
+"MLI","Mali","African Region",2019,"BLOOD","Escherichia coli","Ceftriaxone",387,78,31,39.743589744
+"MKD","North Macedonia","European Region",2019,"BLOOD","Escherichia coli","Ceftriaxone",276,62,38,61.290322581
+"OMN","Oman","Eastern Mediterranean Region",2019,"BLOOD","Escherichia coli","Ceftriaxone",1007,475,253,53.263157895
+"PAK","Pakistan","Eastern Mediterranean Region",2019,"BLOOD","Escherichia coli","Ceftriaxone",8980,755,671,88.874172185
+"PHL","Philippines","Western Pacific Region",2019,"BLOOD","Escherichia coli","Ceftriaxone",6468,1350,539,39.925925926
+"SAU","Saudi Arabia","Eastern Mediterranean Region",2019,"BLOOD","Escherichia coli","Ceftriaxone",2528,496,284,57.258064516
+"CHE","Switzerland","European Region",2019,"BLOOD","Escherichia coli","Ceftriaxone",10424,6030,619,10.265339967
+"THA","Thailand","South-East Asia Region",2019,"BLOOD","Escherichia coli","Ceftriaxone",5463,1187,418,35.214827296
+"ARE","United Arab Emirates","Eastern Mediterranean Region",2019,"BLOOD","Escherichia coli","Ceftriaxone",2464,293,135,46.075085324
+"BHR","Bahrain","Eastern Mediterranean Region",2020,"BLOOD","Escherichia coli","Ceftriaxone",568,127,75,59.05511811
+"BIH","Bosnia and Herzegovina","European Region",2020,"BLOOD","Escherichia coli","Ceftriaxone",954,179,40,22.346368715
+"BRA","Brazil","Region of the Americas",2020,"BLOOD","Escherichia coli","Ceftriaxone",584,114,37,32.456140351
+"GEO","Georgia","European Region",2020,"BLOOD","Escherichia coli","Ceftriaxone",741,126,55,43.650793651
+"IND","India","South-East Asia Region",2020,"BLOOD","Escherichia coli","Ceftriaxone",12371,91,79,86.813186813
+"IDN","Indonesia","South-East Asia Region",2020,"BLOOD","Escherichia coli","Ceftriaxone",1676,356,234,65.730337079
+"IRN","Iran (Islamic Republic of)","Eastern Mediterranean Region",2020,"BLOOD","Escherichia coli","Ceftriaxone",1854,372,253,68.010752688
+"JPN","Japan","Western Pacific Region",2020,"BLOOD","Escherichia coli","Ceftriaxone",142185,57677,11914,20.656414169
+"JOR","Jordan","Eastern Mediterranean Region",2020,"BLOOD","Escherichia coli","Ceftriaxone",446,52,33,63.461538462
+"LAO","Lao People's Democratic Republic","Western Pacific Region",2020,"BLOOD","Escherichia coli","Ceftriaxone",422,177,90,50.847457627
+"MLI","Mali","African Region",2020,"BLOOD","Escherichia coli","Ceftriaxone",297,67,40,59.701492537
+"MKD","North Macedonia","European Region",2020,"BLOOD","Escherichia coli","Ceftriaxone",293,36,30,83.333333333
+"OMN","Oman","Eastern Mediterranean Region",2020,"BLOOD","Escherichia coli","Ceftriaxone",876,150,97,64.666666667
+"PAK","Pakistan","Eastern Mediterranean Region",2020,"BLOOD","Escherichia coli","Ceftriaxone",5623,463,381,82.289416847
+"PHL","Philippines","Western Pacific Region",2020,"BLOOD","Escherichia coli","Ceftriaxone",4276,800,282,35.25
+"SAU","Saudi Arabia","Eastern Mediterranean Region",2020,"BLOOD","Escherichia coli","Ceftriaxone",2458,405,236,58.271604938
+"CHE","Switzerland","European Region",2020,"BLOOD","Escherichia coli","Ceftriaxone",10256,5945,579,9.739276703
+"THA","Thailand","South-East Asia Region",2020,"BLOOD","Escherichia coli","Ceftriaxone",6159,1808,648,35.840707965
+"ARE","United Arab Emirates","Eastern Mediterranean Region",2020,"BLOOD","Escherichia coli","Ceftriaxone",2925,392,212,54.081632653
+"BHR","Bahrain","Eastern Mediterranean Region",2021,"BLOOD","Escherichia coli","Ceftriaxone",677,128,74,57.8125
+"BIH","Bosnia and Herzegovina","European Region",2021,"BLOOD","Escherichia coli","Ceftriaxone",1457,192,55,28.645833333
+"BRA","Brazil","Region of the Americas",2021,"BLOOD","Escherichia coli","Ceftriaxone",953,129,33,25.581395349
+"GEO","Georgia","European Region",2021,"BLOOD","Escherichia coli","Ceftriaxone",666,78,27,34.615384615
+"IND","India","South-East Asia Region",2021,"BLOOD","Escherichia coli","Ceftriaxone",34056,1255,871,69.402390438
+"IDN","Indonesia","South-East Asia Region",2021,"BLOOD","Escherichia coli","Ceftriaxone",3070,436,310,71.100917431
+"IRN","Iran (Islamic Republic of)","Eastern Mediterranean Region",2021,"BLOOD","Escherichia coli","Ceftriaxone",2037,400,281,70.25
+"JPN","Japan","Western Pacific Region",2021,"BLOOD","Escherichia coli","Ceftriaxone",148205,61596,12713,20.639327229
+"JOR","Jordan","Eastern Mediterranean Region",2021,"BLOOD","Escherichia coli","Ceftriaxone",1611,49,26,53.06122449
+"LAO","Lao People's Democratic Republic","Western Pacific Region",2021,"BLOOD","Escherichia coli","Ceftriaxone",340,134,61,45.52238806
+"MLI","Mali","African Region",2021,"BLOOD","Escherichia coli","Ceftriaxone",280,69,32,46.376811594
+"MKD","North Macedonia","European Region",2021,"BLOOD","Escherichia coli","Ceftriaxone",284,41,21,51.219512195
+"OMN","Oman","Eastern Mediterranean Region",2021,"BLOOD","Escherichia coli","Ceftriaxone",1621,212,127,59.905660377
+"PAK","Pakistan","Eastern Mediterranean Region",2021,"BLOOD","Escherichia coli","Ceftriaxone",10931,2553,2171,85.037211124
+"PHL","Philippines","Western Pacific Region",2021,"BLOOD","Escherichia coli","Ceftriaxone",4850,874,345,39.473684211
+"SAU","Saudi Arabia","Eastern Mediterranean Region",2021,"BLOOD","Escherichia coli","Ceftriaxone",1126,185,98,52.972972973
+"CHE","Switzerland","European Region",2021,"BLOOD","Escherichia coli","Ceftriaxone",10322,5177,495,9.561522117
+"THA","Thailand","South-East Asia Region",2021,"BLOOD","Escherichia coli","Ceftriaxone",6559,1787,595,33.296026861
+"ARE","United Arab Emirates","Eastern Mediterranean Region",2021,"BLOOD","Escherichia coli","Ceftriaxone",3989,689,356,51.669085631
+"BHR","Bahrain","Eastern Mediterranean Region",2022,"BLOOD","Escherichia coli","Ceftriaxone",582,137,85,62.04379562
+"BIH","Bosnia and Herzegovina","European Region",2022,"BLOOD","Escherichia coli","Ceftriaxone",1207,194,46,23.711340206
+"BRA","Brazil","Region of the Americas",2022,"BLOOD","Escherichia coli","Ceftriaxone",776,182,66,36.263736264
+"GEO","Georgia","European Region",2022,"BLOOD","Escherichia coli","Ceftriaxone",1007,93,37,39.784946237
+"IND","India","South-East Asia Region",2022,"BLOOD","Escherichia coli","Ceftriaxone",43929,3128,2425,77.525575448
+"IDN","Indonesia","South-East Asia Region",2022,"BLOOD","Escherichia coli","Ceftriaxone",5596,1176,820,69.727891156
+"IRN","Iran (Islamic Republic of)","Eastern Mediterranean Region",2022,"BLOOD","Escherichia coli","Ceftriaxone",2263,579,409,70.639032815
+"JPN","Japan","Western Pacific Region",2022,"BLOOD","Escherichia coli","Ceftriaxone",158356,66391,13538,20.3913181
+"JOR","Jordan","Eastern Mediterranean Region",2022,"BLOOD","Escherichia coli","Ceftriaxone",2027,318,182,57.232704403
+"LAO","Lao People's Democratic Republic","Western Pacific Region",2022,"BLOOD","Escherichia coli","Ceftriaxone",461,211,111,52.606635071
+"MLI","Mali","African Region",2022,"BLOOD","Escherichia coli","Ceftriaxone",286,69,42,60.869565217
+"MKD","North Macedonia","European Region",2022,"BLOOD","Escherichia coli","Ceftriaxone",279,59,33,55.93220339
+"OMN","Oman","Eastern Mediterranean Region",2022,"BLOOD","Escherichia coli","Ceftriaxone",2075,387,273,70.542635659
+"PAK","Pakistan","Eastern Mediterranean Region",2022,"BLOOD","Escherichia coli","Ceftriaxone",16099,4142,3459,83.510381458
+"PHL","Philippines","Western Pacific Region",2022,"BLOOD","Escherichia coli","Ceftriaxone",5937,1233,524,42.497972425
+"SAU","Saudi Arabia","Eastern Mediterranean Region",2022,"BLOOD","Escherichia coli","Ceftriaxone",1962,318,168,52.830188679
+"CHE","Switzerland","European Region",2022,"BLOOD","Escherichia coli","Ceftriaxone",11308,4992,488,9.775641026
+"THA","Thailand","South-East Asia Region",2022,"BLOOD","Escherichia coli","Ceftriaxone",9544,2153,700,32.512772875
+"ARE","United Arab Emirates","Eastern Mediterranean Region",2022,"BLOOD","Escherichia coli","Ceftriaxone",4194,821,430,52.375152253
+"BHR","Bahrain","Eastern Mediterranean Region",2023,"BLOOD","Escherichia coli","Ceftriaxone",964,266,140,52.631578947
+"BIH","Bosnia and Herzegovina","European Region",2023,"BLOOD","Escherichia coli","Ceftriaxone",1271,339,75,22.123893805
+"BRA","Brazil","Region of the Americas",2023,"BLOOD","Escherichia coli","Ceftriaxone",3041,765,263,34.379084967
+"GEO","Georgia","European Region",2023,"BLOOD","Escherichia coli","Ceftriaxone",898,195,85,43.58974359
+"IND","India","South-East Asia Region",2023,"BLOOD","Escherichia coli","Ceftriaxone",41375,5795,4489,77.463330457
+"IDN","Indonesia","South-East Asia Region",2023,"BLOOD","Escherichia coli","Ceftriaxone",9180,1792,1215,67.801339286
+"IRN","Iran (Islamic Republic of)","Eastern Mediterranean Region",2023,"BLOOD","Escherichia coli","Ceftriaxone",2925,579,403,69.602763385
+"JPN","Japan","Western Pacific Region",2023,"BLOOD","Escherichia coli","Ceftriaxone",169604,72415,14674,20.263757509
+"JOR","Jordan","Eastern Mediterranean Region",2023,"BLOOD","Escherichia coli","Ceftriaxone",3297,299,195,65.217391304
+"LAO","Lao People's Democratic Republic","Western Pacific Region",2023,"BLOOD","Escherichia coli","Ceftriaxone",605,252,140,55.555555556
+"MLI","Mali","African Region",2023,"BLOOD","Escherichia coli","Ceftriaxone",275,71,32,45.070422535
+"MKD","North Macedonia","European Region",2023,"BLOOD","Escherichia coli","Ceftriaxone",283,34,21,61.764705882
+"OMN","Oman","Eastern Mediterranean Region",2023,"BLOOD","Escherichia coli","Ceftriaxone",2586,658,351,53.343465046
+"PAK","Pakistan","Eastern Mediterranean Region",2023,"BLOOD","Escherichia coli","Ceftriaxone",13338,3007,2560,85.134685733
+"PHL","Philippines","Western Pacific Region",2023,"BLOOD","Escherichia coli","Ceftriaxone",7705,1454,520,35.763411279
+"SAU","Saudi Arabia","Eastern Mediterranean Region",2023,"BLOOD","Escherichia coli","Ceftriaxone",1927,308,161,52.272727273
+"CHE","Switzerland","European Region",2023,"BLOOD","Escherichia coli","Ceftriaxone",12511,5634,617,10.951366702
+"THA","Thailand","South-East Asia Region",2023,"BLOOD","Escherichia coli","Ceftriaxone",14722,3807,1472,38.665615971
+"ARE","United Arab Emirates","Eastern Mediterranean Region",2023,"BLOOD","Escherichia coli","Ceftriaxone",3959,844,430,50.947867299

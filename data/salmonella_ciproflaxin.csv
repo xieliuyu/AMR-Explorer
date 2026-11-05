@@ -1,0 +1,114 @@
+Filters
+Region filter: All
+Infection type filter: Bloodstream
+Bacterial pathogen filter: Salmonella spp.
+Antibiotic filter: Ciprofloxacin
+
+Data for time series
+"Year","Specimen","PathogenName","AbTargets","Min","Q1","Median","Q3","Max"
+2018,"BLOOD","Salmonella spp.","Ciprofloxacin",0.531914894,3.441940887,9.722222222,23.183105761,68.431929734
+2019,"BLOOD","Salmonella spp.","Ciprofloxacin",0,3.979115977,21.224489796,32.057823129,94.871794872
+2020,"BLOOD","Salmonella spp.","Ciprofloxacin",0,2.991927646,21.135500602,31.770833333,71.319018405
+2021,"BLOOD","Salmonella spp.","Ciprofloxacin",0,2.424506388,8.746936275,25.694444444,65.847116674
+2022,"BLOOD","Salmonella spp.","Ciprofloxacin",0,3.647974163,15.0997151,29.928698752,58.4
+2023,"BLOOD","Salmonella spp.","Ciprofloxacin",0.392927308,4.545454545,16.666666667,26.315789474,55.882352941
+
+
+Data for line plots for individual CTAs
+"Iso3","CountryTerritoryArea","WHORegionName","Year","Specimen","PathogenName","AbTargets","TotalSpecimenIsolates","InterpretableAST","Resistant","PercentResistant"
+"ARG","Argentina","Region of the Americas",2018,"BLOOD","Salmonella spp.","Ciprofloxacin",7385,43,1,2.325581395
+"BHR","Bahrain","Eastern Mediterranean Region",2018,"BLOOD","Salmonella spp.","Ciprofloxacin",633,22,3,13.636363636
+"BGD","Bangladesh","South-East Asia Region",2018,"BLOOD","Salmonella spp.","Ciprofloxacin",122,73,16,21.917808219
+"IND","India","South-East Asia Region",2018,"BLOOD","Salmonella spp.","Ciprofloxacin",14459,619,167,26.978998384
+"IDN","Indonesia","South-East Asia Region",2018,"BLOOD","Salmonella spp.","Ciprofloxacin",1381,54,4,7.407407407
+"JPN","Japan","Western Pacific Region",2018,"BLOOD","Salmonella spp.","Ciprofloxacin",126859,260,2,0.769230769
+"MLI","Mali","African Region",2018,"BLOOD","Salmonella spp.","Ciprofloxacin",422,188,1,0.531914894
+"NPL","Nepal","South-East Asia Region",2018,"BLOOD","Salmonella spp.","Ciprofloxacin",1202,451,182,40.354767184
+"PAK","Pakistan","Eastern Mediterranean Region",2018,"BLOOD","Salmonella spp.","Ciprofloxacin",7410,3871,2649,68.431929734
+"PHL","Philippines","Western Pacific Region",2018,"BLOOD","Salmonella spp.","Ciprofloxacin",5595,199,6,3.015075377
+"KOR","Republic of Korea","Western Pacific Region",2018,"BLOOD","Salmonella spp.","Ciprofloxacin",3519,55,2,3.636363636
+"SAU","Saudi Arabia","Eastern Mediterranean Region",2018,"BLOOD","Salmonella spp.","Ciprofloxacin",2420,36,11,30.555555556
+"ZAF","South Africa","African Region",2018,"BLOOD","Salmonella spp.","Ciprofloxacin",20691,560,29,5.178571429
+"CHE","Switzerland","European Region",2018,"BLOOD","Salmonella spp.","Ciprofloxacin",19539,140,20,14.285714286
+"THA","Thailand","South-East Asia Region",2018,"BLOOD","Salmonella spp.","Ciprofloxacin",2629,88,1,1.136363636
+"ARE","United Arab Emirates","Eastern Mediterranean Region",2018,"BLOOD","Salmonella spp.","Ciprofloxacin",2452,92,36,39.130434783
+"ARG","Argentina","Region of the Americas",2019,"BLOOD","Salmonella spp.","Ciprofloxacin",5783,108,3,2.777777778
+"BHR","Bahrain","Eastern Mediterranean Region",2019,"BLOOD","Salmonella spp.","Ciprofloxacin",780,49,11,22.448979592
+"BGD","Bangladesh","South-East Asia Region",2019,"BLOOD","Salmonella spp.","Ciprofloxacin",170,98,31,31.632653061
+"IND","India","South-East Asia Region",2019,"BLOOD","Salmonella spp.","Ciprofloxacin",24223,1215,484,39.835390947
+"IDN","Indonesia","South-East Asia Region",2019,"BLOOD","Salmonella spp.","Ciprofloxacin",2314,86,9,10.465116279
+"JPN","Japan","Western Pacific Region",2019,"BLOOD","Salmonella spp.","Ciprofloxacin",136246,318,3,0.943396226
+"MLI","Mali","African Region",2019,"BLOOD","Salmonella spp.","Ciprofloxacin",387,195,0,0
+"NPL","Nepal","South-East Asia Region",2019,"BLOOD","Salmonella spp.","Ciprofloxacin",2380,464,134,28.879310345
+"PAK","Pakistan","Eastern Mediterranean Region",2019,"BLOOD","Salmonella spp.","Ciprofloxacin",8980,5729,4600,80.293244894
+"PHL","Philippines","Western Pacific Region",2019,"BLOOD","Salmonella spp.","Ciprofloxacin",6468,241,4,1.659751037
+"KOR","Republic of Korea","Western Pacific Region",2019,"BLOOD","Salmonella spp.","Ciprofloxacin",3646,47,3,6.382978723
+"SAU","Saudi Arabia","Eastern Mediterranean Region",2019,"BLOOD","Salmonella spp.","Ciprofloxacin",2528,32,10,31.25
+"ZAF","South Africa","African Region",2019,"BLOOD","Salmonella spp.","Ciprofloxacin",20489,709,53,7.475317348
+"CHE","Switzerland","European Region",2019,"BLOOD","Salmonella spp.","Ciprofloxacin",10424,70,8,11.428571429
+"THA","Thailand","South-East Asia Region",2019,"BLOOD","Salmonella spp.","Ciprofloxacin",5463,137,6,4.379562044
+"ARE","United Arab Emirates","Eastern Mediterranean Region",2019,"BLOOD","Salmonella spp.","Ciprofloxacin",2464,107,53,49.53271028
+"ARG","Argentina","Region of the Americas",2020,"BLOOD","Salmonella spp.","Ciprofloxacin",7376,264,0,0
+"BHR","Bahrain","Eastern Mediterranean Region",2020,"BLOOD","Salmonella spp.","Ciprofloxacin",568,12,2,16.666666667
+"BGD","Bangladesh","South-East Asia Region",2020,"BLOOD","Salmonella spp.","Ciprofloxacin",65,48,12,25
+"IND","India","South-East Asia Region",2020,"BLOOD","Salmonella spp.","Ciprofloxacin",12371,278,128,46.043165468
+"IDN","Indonesia","South-East Asia Region",2020,"BLOOD","Salmonella spp.","Ciprofloxacin",1676,48,0,0
+"JPN","Japan","Western Pacific Region",2020,"BLOOD","Salmonella spp.","Ciprofloxacin",142185,345,3,0.869565217
+"MLI","Mali","African Region",2020,"BLOOD","Salmonella spp.","Ciprofloxacin",297,87,0,0
+"NPL","Nepal","South-East Asia Region",2020,"BLOOD","Salmonella spp.","Ciprofloxacin",1515,56,13,23.214285714
+"PAK","Pakistan","Eastern Mediterranean Region",2020,"BLOOD","Salmonella spp.","Ciprofloxacin",5623,1304,930,71.319018405
+"PHL","Philippines","Western Pacific Region",2020,"BLOOD","Salmonella spp.","Ciprofloxacin",4276,127,4,3.149606299
+"KOR","Republic of Korea","Western Pacific Region",2020,"BLOOD","Salmonella spp.","Ciprofloxacin",4095,37,2,5.405405405
+"SAU","Saudi Arabia","Eastern Mediterranean Region",2020,"BLOOD","Salmonella spp.","Ciprofloxacin",2458,30,10,33.333333333
+"ZAF","South Africa","African Region",2020,"BLOOD","Salmonella spp.","Ciprofloxacin",23840,794,20,2.518891688
+"CHE","Switzerland","European Region",2020,"BLOOD","Salmonella spp.","Ciprofloxacin",10256,61,12,19.672131148
+"THA","Thailand","South-East Asia Region",2020,"BLOOD","Salmonella spp.","Ciprofloxacin",6159,150,11,7.333333333
+"ARE","United Arab Emirates","Eastern Mediterranean Region",2020,"BLOOD","Salmonella spp.","Ciprofloxacin",2925,96,30,31.25
+"ARG","Argentina","Region of the Americas",2021,"BLOOD","Salmonella spp.","Ciprofloxacin",9243,832,0,0
+"BHR","Bahrain","Eastern Mediterranean Region",2021,"BLOOD","Salmonella spp.","Ciprofloxacin",677,17,2,11.764705882
+"BGD","Bangladesh","South-East Asia Region",2021,"BLOOD","Salmonella spp.","Ciprofloxacin",73,41,1,2.43902439
+"IND","India","South-East Asia Region",2021,"BLOOD","Salmonella spp.","Ciprofloxacin",34056,1330,714,53.684210526
+"IDN","Indonesia","South-East Asia Region",2021,"BLOOD","Salmonella spp.","Ciprofloxacin",3070,70,12,17.142857143
+"JPN","Japan","Western Pacific Region",2021,"BLOOD","Salmonella spp.","Ciprofloxacin",148205,308,1,0.324675325
+"MLI","Mali","African Region",2021,"BLOOD","Salmonella spp.","Ciprofloxacin",280,70,0,0
+"NPL","Nepal","South-East Asia Region",2021,"BLOOD","Salmonella spp.","Ciprofloxacin",1301,99,35,35.353535354
+"PAK","Pakistan","Eastern Mediterranean Region",2021,"BLOOD","Salmonella spp.","Ciprofloxacin",10931,2237,1473,65.847116674
+"PHL","Philippines","Western Pacific Region",2021,"BLOOD","Salmonella spp.","Ciprofloxacin",4850,125,5,4
+"KOR","Republic of Korea","Western Pacific Region",2021,"BLOOD","Salmonella spp.","Ciprofloxacin",4488,45,2,4.444444444
+"SAU","Saudi Arabia","Eastern Mediterranean Region",2021,"BLOOD","Salmonella spp.","Ciprofloxacin",1126,18,5,27.777777778
+"ZAF","South Africa","African Region",2021,"BLOOD","Salmonella spp.","Ciprofloxacin",23334,922,18,1.952277657
+"CHE","Switzerland","European Region",2021,"BLOOD","Salmonella spp.","Ciprofloxacin",10322,87,16,18.390804598
+"THA","Thailand","South-East Asia Region",2021,"BLOOD","Salmonella spp.","Ciprofloxacin",6559,192,11,5.729166667
+"ARE","United Arab Emirates","Eastern Mediterranean Region",2021,"BLOOD","Salmonella spp.","Ciprofloxacin",3989,164,61,37.195121951
+"ARG","Argentina","Region of the Americas",2022,"BLOOD","Salmonella spp.","Ciprofloxacin",8366,612,6,0.980392157
+"BHR","Bahrain","Eastern Mediterranean Region",2022,"BLOOD","Salmonella spp.","Ciprofloxacin",582,16,1,6.25
+"BGD","Bangladesh","South-East Asia Region",2022,"BLOOD","Salmonella spp.","Ciprofloxacin",129,26,1,3.846153846
+"IND","India","South-East Asia Region",2022,"BLOOD","Salmonella spp.","Ciprofloxacin",43929,3261,1831,56.14842073
+"IDN","Indonesia","South-East Asia Region",2022,"BLOOD","Salmonella spp.","Ciprofloxacin",5596,65,10,15.384615385
+"JPN","Japan","Western Pacific Region",2022,"BLOOD","Salmonella spp.","Ciprofloxacin",158356,378,0,0
+"MLI","Mali","African Region",2022,"BLOOD","Salmonella spp.","Ciprofloxacin",286,66,1,1.515151515
+"NPL","Nepal","South-East Asia Region",2022,"BLOOD","Salmonella spp.","Ciprofloxacin",2829,125,73,58.4
+"PAK","Pakistan","Eastern Mediterranean Region",2022,"BLOOD","Salmonella spp.","Ciprofloxacin",16099,164,30,18.292682927
+"PHL","Philippines","Western Pacific Region",2022,"BLOOD","Salmonella spp.","Ciprofloxacin",5937,126,11,8.73015873
+"KOR","Republic of Korea","Western Pacific Region",2022,"BLOOD","Salmonella spp.","Ciprofloxacin",4484,49,0,0
+"SAU","Saudi Arabia","Eastern Mediterranean Region",2022,"BLOOD","Salmonella spp.","Ciprofloxacin",1962,33,10,30.303030303
+"ZAF","South Africa","African Region",2022,"BLOOD","Salmonella spp.","Ciprofloxacin",24658,655,20,3.053435115
+"CHE","Switzerland","European Region",2022,"BLOOD","Salmonella spp.","Ciprofloxacin",11308,89,12,13.483146067
+"THA","Thailand","South-East Asia Region",2022,"BLOOD","Salmonella spp.","Ciprofloxacin",9544,221,11,4.977375566
+"ARE","United Arab Emirates","Eastern Mediterranean Region",2022,"BLOOD","Salmonella spp.","Ciprofloxacin",4194,135,25,18.518518519
+"ARG","Argentina","Region of the Americas",2023,"BLOOD","Salmonella spp.","Ciprofloxacin",9290,784,5,0.637755102
+"BHR","Bahrain","Eastern Mediterranean Region",2023,"BLOOD","Salmonella spp.","Ciprofloxacin",964,22,1,4.545454545
+"BGD","Bangladesh","South-East Asia Region",2023,"BLOOD","Salmonella spp.","Ciprofloxacin",298,65,15,23.076923077
+"IND","India","South-East Asia Region",2023,"BLOOD","Salmonella spp.","Ciprofloxacin",41375,15,5,33.333333333
+"IDN","Indonesia","South-East Asia Region",2023,"BLOOD","Salmonella spp.","Ciprofloxacin",9180,110,28,25.454545455
+"JPN","Japan","Western Pacific Region",2023,"BLOOD","Salmonella spp.","Ciprofloxacin",169604,509,2,0.392927308
+"MLI","Mali","African Region",2023,"BLOOD","Salmonella spp.","Ciprofloxacin",275,63,3,4.761904762
+"NPL","Nepal","South-East Asia Region",2023,"BLOOD","Salmonella spp.","Ciprofloxacin",2740,34,19,55.882352941
+"PAK","Pakistan","Eastern Mediterranean Region",2023,"BLOOD","Salmonella spp.","Ciprofloxacin",13338,101,27,26.732673267
+"PHL","Philippines","Western Pacific Region",2023,"BLOOD","Salmonella spp.","Ciprofloxacin",7705,97,11,11.340206186
+"KOR","Republic of Korea","Western Pacific Region",2023,"BLOOD","Salmonella spp.","Ciprofloxacin",5416,75,1,1.333333333
+"SAU","Saudi Arabia","Eastern Mediterranean Region",2023,"BLOOD","Salmonella spp.","Ciprofloxacin",1927,37,9,24.324324324
+"ZAF","South Africa","African Region",2023,"BLOOD","Salmonella spp.","Ciprofloxacin",26026,794,47,5.919395466
+"CHE","Switzerland","European Region",2023,"BLOOD","Salmonella spp.","Ciprofloxacin",12511,102,17,16.666666667
+"THA","Thailand","South-East Asia Region",2023,"BLOOD","Salmonella spp.","Ciprofloxacin",14722,475,17,3.578947368
+"ARE","United Arab Emirates","Eastern Mediterranean Region",2023,"BLOOD","Salmonella spp.","Ciprofloxacin",3959,90,16,17.777777778

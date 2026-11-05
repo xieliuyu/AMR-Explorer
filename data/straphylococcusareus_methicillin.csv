@@ -1,0 +1,276 @@
+Filters
+Region filter: All
+Infection type filter: Bloodstream
+Bacterial pathogen filter: Staphylococcus aureus
+Antibiotic filter: Methicillin resistance
+
+Data for time series
+"Year","Specimen","PathogenName","AbTargets","Min","Q1","Median","Q3","Max"
+2018,"BLOOD","Staphylococcus aureus","Methicillin resistance",0,11.16734143,22.642903019,44.006507019,70.37037037
+2019,"BLOOD","Staphylococcus aureus","Methicillin resistance",1.27064803,10.476124957,21.346754599,41.017402945,100
+2020,"BLOOD","Staphylococcus aureus","Methicillin resistance",1.19047619,12.083637248,24.41314554,45.689655172,100
+2021,"BLOOD","Staphylococcus aureus","Methicillin resistance",0.936170213,8.638098846,22.916666667,43.32067757,92.307692308
+2022,"BLOOD","Staphylococcus aureus","Methicillin resistance",1.62842339,8.688094868,28.571428571,51.675712347,83.333333333
+2023,"BLOOD","Staphylococcus aureus","Methicillin resistance",0.395256917,9.125633906,28.448275862,49.063421013,100
+
+
+Data for line plots for individual CTAs
+"Iso3","CountryTerritoryArea","WHORegionName","Year","Specimen","PathogenName","AbTargets","TotalSpecimenIsolates","InterpretableAST","Resistant","PercentResistant"
+"ARG","Argentina","Region of the Americas",2018,"BLOOD","Staphylococcus aureus","Methicillin resistance",7385,1877,850,45.285029302
+"AUT","Austria","European Region",2018,"BLOOD","Staphylococcus aureus","Methicillin resistance",10829,3307,212,6.410644088
+"BIH","Bosnia and Herzegovina","European Region",2018,"BLOOD","Staphylococcus aureus","Methicillin resistance",841,227,37,16.299559471
+"BRA","Brazil","Region of the Americas",2018,"BLOOD","Staphylococcus aureus","Methicillin resistance",314,90,10,11.111111111
+"HRV","Croatia","European Region",2018,"BLOOD","Staphylococcus aureus","Methicillin resistance",2296,458,121,26.419213974
+"CYP","Cyprus","European Region",2018,"BLOOD","Staphylococcus aureus","Methicillin resistance",428,117,47,40.170940171
+"CZE","Czechia","European Region",2018,"BLOOD","Staphylococcus aureus","Methicillin resistance",7835,2243,304,13.553276861
+"EGY","Egypt","Eastern Mediterranean Region",2018,"BLOOD","Staphylococcus aureus","Methicillin resistance",967,27,19,70.37037037
+"FIN","Finland","European Region",2018,"BLOOD","Staphylococcus aureus","Methicillin resistance",8600,2105,42,1.995249406
+"GEO","Georgia","European Region",2018,"BLOOD","Staphylococcus aureus","Methicillin resistance",216,43,5,11.627906977
+"DEU","Germany","European Region",2018,"BLOOD","Staphylococcus aureus","Methicillin resistance",39366,11611,878,7.56179485
+"GRC","Greece","European Region",2018,"BLOOD","Staphylococcus aureus","Methicillin resistance",5044,888,323,36.373873874
+"IND","India","South-East Asia Region",2018,"BLOOD","Staphylococcus aureus","Methicillin resistance",14459,3879,2448,63.109048724
+"IDN","Indonesia","South-East Asia Region",2018,"BLOOD","Staphylococcus aureus","Methicillin resistance",1381,218,114,52.293577982
+"IRN","Iran (Islamic Republic of)","Eastern Mediterranean Region",2018,"BLOOD","Staphylococcus aureus","Methicillin resistance",1826,291,112,38.487972509
+"IRL","Ireland","European Region",2018,"BLOOD","Staphylococcus aureus","Methicillin resistance",5425,1188,147,12.373737374
+"ITA","Italy","European Region",2018,"BLOOD","Staphylococcus aureus","Methicillin resistance",32664,8263,2808,33.982814958
+"JPN","Japan","Western Pacific Region",2018,"BLOOD","Staphylococcus aureus","Methicillin resistance",126859,23684,8536,36.041209255
+"JOR","Jordan","Eastern Mediterranean Region",2018,"BLOOD","Staphylococcus aureus","Methicillin resistance",345,71,34,47.887323944
+"XKX","Kosovo","European Region",2018,"BLOOD","Staphylococcus aureus","Methicillin resistance",164,26,15,57.692307692
+"LAO","Lao People's Democratic Republic","Western Pacific Region",2018,"BLOOD","Staphylococcus aureus","Methicillin resistance",275,35,4,11.428571429
+"LVA","Latvia","European Region",2018,"BLOOD","Staphylococcus aureus","Methicillin resistance",987,315,18,5.714285714
+"LBN","Lebanon","Eastern Mediterranean Region",2018,"BLOOD","Staphylococcus aureus","Methicillin resistance",330,10,2,20
+"LTU","Lithuania","European Region",2018,"BLOOD","Staphylococcus aureus","Methicillin resistance",2352,691,58,8.393632417
+"MLI","Mali","African Region",2018,"BLOOD","Staphylococcus aureus","Methicillin resistance",422,49,0,0
+"MLT","Malta","European Region",2018,"BLOOD","Staphylococcus aureus","Methicillin resistance",1116,92,33,35.869565217
+"MOZ","Mozambique","African Region",2018,"BLOOD","Staphylococcus aureus","Methicillin resistance",51,15,3,20
+"NPL","Nepal","South-East Asia Region",2018,"BLOOD","Staphylococcus aureus","Methicillin resistance",1202,18,10,55.555555556
+"NLD","Netherlands (Kingdom of the)","European Region",2018,"BLOOD","Staphylococcus aureus","Methicillin resistance",12993,3050,36,1.180327869
+"MKD","North Macedonia","European Region",2018,"BLOOD","Staphylococcus aureus","Methicillin resistance",176,58,31,53.448275862
+"PAK","Pakistan","Eastern Mediterranean Region",2018,"BLOOD","Staphylococcus aureus","Methicillin resistance",7410,14,4,28.571428571
+"PHL","Philippines","Western Pacific Region",2018,"BLOOD","Staphylococcus aureus","Methicillin resistance",5595,1446,818,56.569847856
+"POL","Poland","European Region",2018,"BLOOD","Staphylococcus aureus","Methicillin resistance",6477,1959,311,15.875446656
+"KOR","Republic of Korea","Western Pacific Region",2018,"BLOOD","Staphylococcus aureus","Methicillin resistance",3519,743,350,47.106325707
+"RUS","Russian Federation","European Region",2018,"BLOOD","Staphylococcus aureus","Methicillin resistance",427,107,15,14.018691589
+"SAU","Saudi Arabia","Eastern Mediterranean Region",2018,"BLOOD","Staphylococcus aureus","Methicillin resistance",2420,546,254,46.52014652
+"ZAF","South Africa","African Region",2018,"BLOOD","Staphylococcus aureus","Methicillin resistance",20691,5603,1379,24.611815099
+"SWE","Sweden","European Region",2018,"BLOOD","Staphylococcus aureus","Methicillin resistance",10849,3639,70,1.923605386
+"CHE","Switzerland","European Region",2018,"BLOOD","Staphylococcus aureus","Methicillin resistance",19539,1582,92,5.815423515
+"THA","Thailand","South-East Asia Region",2018,"BLOOD","Staphylococcus aureus","Methicillin resistance",2629,247,28,11.336032389
+"TUN","Tunisia","Eastern Mediterranean Region",2018,"BLOOD","Staphylococcus aureus","Methicillin resistance",1660,36,8,22.222222222
+"ARE","United Arab Emirates","Eastern Mediterranean Region",2018,"BLOOD","Staphylococcus aureus","Methicillin resistance",2452,447,123,27.516778523
+"GBR","United Kingdom of Great Britain and Northern Ireland","European Region",2018,"BLOOD","Staphylococcus aureus","Methicillin resistance",50898,9045,659,7.285793256
+"ARG","Argentina","Region of the Americas",2019,"BLOOD","Staphylococcus aureus","Methicillin resistance",5783,1494,628,42.03480589
+"AUT","Austria","European Region",2019,"BLOOD","Staphylococcus aureus","Methicillin resistance",10215,2378,125,5.256518082
+"BIH","Bosnia and Herzegovina","European Region",2019,"BLOOD","Staphylococcus aureus","Methicillin resistance",1020,237,25,10.548523207
+"BRA","Brazil","Region of the Americas",2019,"BLOOD","Staphylococcus aureus","Methicillin resistance",606,214,44,20.560747664
+"HRV","Croatia","European Region",2019,"BLOOD","Staphylococcus aureus","Methicillin resistance",2093,358,89,24.860335196
+"CYP","Cyprus","European Region",2019,"BLOOD","Staphylococcus aureus","Methicillin resistance",250,21,21,100
+"CZE","Czechia","European Region",2019,"BLOOD","Staphylococcus aureus","Methicillin resistance",7711,2108,264,12.523719165
+"EGY","Egypt","Eastern Mediterranean Region",2019,"BLOOD","Staphylococcus aureus","Methicillin resistance",1114,49,39,79.591836735
+"FIN","Finland","European Region",2019,"BLOOD","Staphylococcus aureus","Methicillin resistance",9354,1494,31,2.074966533
+"GEO","Georgia","European Region",2019,"BLOOD","Staphylococcus aureus","Methicillin resistance",433,35,10,28.571428571
+"DEU","Germany","European Region",2019,"BLOOD","Staphylococcus aureus","Methicillin resistance",41630,10939,744,6.801352957
+"GRC","Greece","European Region",2019,"BLOOD","Staphylococcus aureus","Methicillin resistance",5814,1002,435,43.413173653
+"IND","India","South-East Asia Region",2019,"BLOOD","Staphylococcus aureus","Methicillin resistance",24223,5809,3521,60.612842142
+"IDN","Indonesia","South-East Asia Region",2019,"BLOOD","Staphylococcus aureus","Methicillin resistance",2314,404,161,39.851485149
+"IRN","Iran (Islamic Republic of)","Eastern Mediterranean Region",2019,"BLOOD","Staphylococcus aureus","Methicillin resistance",2277,458,179,39.082969432
+"IRL","Ireland","European Region",2019,"BLOOD","Staphylococcus aureus","Methicillin resistance",5053,448,67,14.955357143
+"ITA","Italy","European Region",2019,"BLOOD","Staphylococcus aureus","Methicillin resistance",37247,3786,1467,38.748019017
+"JPN","Japan","Western Pacific Region",2019,"BLOOD","Staphylococcus aureus","Methicillin resistance",136246,25677,9352,36.421700354
+"JOR","Jordan","Eastern Mediterranean Region",2019,"BLOOD","Staphylococcus aureus","Methicillin resistance",627,134,97,72.388059701
+"XKX","Kosovo","European Region",2019,"BLOOD","Staphylococcus aureus","Methicillin resistance",151,28,10,35.714285714
+"LAO","Lao People's Democratic Republic","Western Pacific Region",2019,"BLOOD","Staphylococcus aureus","Methicillin resistance",314,66,4,6.060606061
+"LVA","Latvia","European Region",2019,"BLOOD","Staphylococcus aureus","Methicillin resistance",1712,57,7,12.280701754
+"LBN","Lebanon","Eastern Mediterranean Region",2019,"BLOOD","Staphylococcus aureus","Methicillin resistance",218,12,3,25
+"LTU","Lithuania","European Region",2019,"BLOOD","Staphylococcus aureus","Methicillin resistance",2452,656,61,9.298780488
+"MLI","Mali","African Region",2019,"BLOOD","Staphylococcus aureus","Methicillin resistance",387,40,1,2.5
+"MLT","Malta","European Region",2019,"BLOOD","Staphylococcus aureus","Methicillin resistance",624,77,17,22.077922078
+"MOZ","Mozambique","African Region",2019,"BLOOD","Staphylococcus aureus","Methicillin resistance",103,29,3,10.344827586
+"NPL","Nepal","South-East Asia Region",2019,"BLOOD","Staphylococcus aureus","Methicillin resistance",2380,53,26,49.056603774
+"NLD","Netherlands (Kingdom of the)","European Region",2019,"BLOOD","Staphylococcus aureus","Methicillin resistance",12741,1579,26,1.64661178
+"MKD","North Macedonia","European Region",2019,"BLOOD","Staphylococcus aureus","Methicillin resistance",276,37,23,62.162162162
+"PAK","Pakistan","Eastern Mediterranean Region",2019,"BLOOD","Staphylococcus aureus","Methicillin resistance",8980,297,193,64.983164983
+"PHL","Philippines","Western Pacific Region",2019,"BLOOD","Staphylococcus aureus","Methicillin resistance",6468,1696,863,50.884433962
+"POL","Poland","European Region",2019,"BLOOD","Staphylococcus aureus","Methicillin resistance",6404,1841,275,14.937533949
+"KOR","Republic of Korea","Western Pacific Region",2019,"BLOOD","Staphylococcus aureus","Methicillin resistance",3646,683,332,48.609077599
+"RUS","Russian Federation","European Region",2019,"BLOOD","Staphylococcus aureus","Methicillin resistance",1173,60,16,26.666666667
+"SAU","Saudi Arabia","Eastern Mediterranean Region",2019,"BLOOD","Staphylococcus aureus","Methicillin resistance",2528,615,301,48.943089431
+"ZAF","South Africa","African Region",2019,"BLOOD","Staphylococcus aureus","Methicillin resistance",20489,5762,1230,21.346754599
+"SWE","Sweden","European Region",2019,"BLOOD","Staphylococcus aureus","Methicillin resistance",18598,5948,107,1.798924008
+"CHE","Switzerland","European Region",2019,"BLOOD","Staphylococcus aureus","Methicillin resistance",10424,819,32,3.907203907
+"THA","Thailand","South-East Asia Region",2019,"BLOOD","Staphylococcus aureus","Methicillin resistance",5463,708,88,12.429378531
+"TUN","Tunisia","Eastern Mediterranean Region",2019,"BLOOD","Staphylococcus aureus","Methicillin resistance",932,281,49,17.43772242
+"ARE","United Arab Emirates","Eastern Mediterranean Region",2019,"BLOOD","Staphylococcus aureus","Methicillin resistance",2464,207,75,36.231884058
+"GBR","United Kingdom of Great Britain and Northern Ireland","European Region",2019,"BLOOD","Staphylococcus aureus","Methicillin resistance",39230,1932,201,10.403726708
+"ARG","Argentina","Region of the Americas",2020,"BLOOD","Staphylococcus aureus","Methicillin resistance",7376,1604,616,38.403990025
+"AUT","Austria","European Region",2020,"BLOOD","Staphylococcus aureus","Methicillin resistance",8660,1968,88,4.471544715
+"BIH","Bosnia and Herzegovina","European Region",2020,"BLOOD","Staphylococcus aureus","Methicillin resistance",954,112,26,23.214285714
+"BRA","Brazil","Region of the Americas",2020,"BLOOD","Staphylococcus aureus","Methicillin resistance",584,213,52,24.41314554
+"HRV","Croatia","European Region",2020,"BLOOD","Staphylococcus aureus","Methicillin resistance",1800,20,10,50
+"CYP","Cyprus","European Region",2020,"BLOOD","Staphylococcus aureus","Methicillin resistance",739,210,104,49.523809524
+"CZE","Czechia","European Region",2020,"BLOOD","Staphylococcus aureus","Methicillin resistance",6846,2089,195,9.334609861
+"EGY","Egypt","Eastern Mediterranean Region",2020,"BLOOD","Staphylococcus aureus","Methicillin resistance",901,25,25,100
+"FIN","Finland","European Region",2020,"BLOOD","Staphylococcus aureus","Methicillin resistance",8809,1428,17,1.19047619
+"GEO","Georgia","European Region",2020,"BLOOD","Staphylococcus aureus","Methicillin resistance",741,139,28,20.143884892
+"DEU","Germany","European Region",2020,"BLOOD","Staphylococcus aureus","Methicillin resistance",48396,13095,731,5.582283314
+"GRC","Greece","European Region",2020,"BLOOD","Staphylococcus aureus","Methicillin resistance",2415,413,170,41.162227603
+"IND","India","South-East Asia Region",2020,"BLOOD","Staphylococcus aureus","Methicillin resistance",12371,2156,1394,64.6567718
+"IDN","Indonesia","South-East Asia Region",2020,"BLOOD","Staphylococcus aureus","Methicillin resistance",1676,149,54,36.241610738
+"IRN","Iran (Islamic Republic of)","Eastern Mediterranean Region",2020,"BLOOD","Staphylococcus aureus","Methicillin resistance",1854,379,167,44.063324538
+"IRL","Ireland","European Region",2020,"BLOOD","Staphylococcus aureus","Methicillin resistance",3278,343,48,13.994169096
+"ITA","Italy","European Region",2020,"BLOOD","Staphylococcus aureus","Methicillin resistance",41249,2977,1088,36.546859254
+"JPN","Japan","Western Pacific Region",2020,"BLOOD","Staphylococcus aureus","Methicillin resistance",142185,25413,9113,35.859599418
+"JOR","Jordan","Eastern Mediterranean Region",2020,"BLOOD","Staphylococcus aureus","Methicillin resistance",446,149,87,58.389261745
+"XKX","Kosovo","European Region",2020,"BLOOD","Staphylococcus aureus","Methicillin resistance",161,14,9,64.285714286
+"LAO","Lao People's Democratic Republic","Western Pacific Region",2020,"BLOOD","Staphylococcus aureus","Methicillin resistance",422,81,18,22.222222222
+"LVA","Latvia","European Region",2020,"BLOOD","Staphylococcus aureus","Methicillin resistance",980,66,9,13.636363636
+"LBN","Lebanon","Eastern Mediterranean Region",2020,"BLOOD","Staphylococcus aureus","Methicillin resistance",565,57,20,35.087719298
+"LTU","Lithuania","European Region",2020,"BLOOD","Staphylococcus aureus","Methicillin resistance",2507,704,69,9.801136364
+"MLI","Mali","African Region",2020,"BLOOD","Staphylococcus aureus","Methicillin resistance",297,48,5,10.416666667
+"MLT","Malta","European Region",2020,"BLOOD","Staphylococcus aureus","Methicillin resistance",530,92,18,19.565217391
+"MOZ","Mozambique","African Region",2020,"BLOOD","Staphylococcus aureus","Methicillin resistance",72,20,5,25
+"NPL","Nepal","South-East Asia Region",2020,"BLOOD","Staphylococcus aureus","Methicillin resistance",1515,81,64,79.012345679
+"NLD","Netherlands (Kingdom of the)","European Region",2020,"BLOOD","Staphylococcus aureus","Methicillin resistance",12566,2796,43,1.537911302
+"MKD","North Macedonia","European Region",2020,"BLOOD","Staphylococcus aureus","Methicillin resistance",293,10,10,100
+"PAK","Pakistan","Eastern Mediterranean Region",2020,"BLOOD","Staphylococcus aureus","Methicillin resistance",5623,177,123,69.491525424
+"PHL","Philippines","Western Pacific Region",2020,"BLOOD","Staphylococcus aureus","Methicillin resistance",4276,1160,530,45.689655172
+"POL","Poland","European Region",2020,"BLOOD","Staphylococcus aureus","Methicillin resistance",4975,1197,176,14.70342523
+"KOR","Republic of Korea","Western Pacific Region",2020,"BLOOD","Staphylococcus aureus","Methicillin resistance",4095,734,349,47.547683924
+"RUS","Russian Federation","European Region",2020,"BLOOD","Staphylococcus aureus","Methicillin resistance",1305,45,13,28.888888889
+"SAU","Saudi Arabia","Eastern Mediterranean Region",2020,"BLOOD","Staphylococcus aureus","Methicillin resistance",2458,658,323,49.088145897
+"ZAF","South Africa","African Region",2020,"BLOOD","Staphylococcus aureus","Methicillin resistance",23840,6135,1205,19.641401793
+"SWE","Sweden","European Region",2020,"BLOOD","Staphylococcus aureus","Methicillin resistance",38574,13742,320,2.328627565
+"CHE","Switzerland","European Region",2020,"BLOOD","Staphylococcus aureus","Methicillin resistance",10256,1132,58,5.123674912
+"THA","Thailand","South-East Asia Region",2020,"BLOOD","Staphylococcus aureus","Methicillin resistance",6159,254,27,10.62992126
+"TUN","Tunisia","Eastern Mediterranean Region",2020,"BLOOD","Staphylococcus aureus","Methicillin resistance",917,157,19,12.101910828
+"ARE","United Arab Emirates","Eastern Mediterranean Region",2020,"BLOOD","Staphylococcus aureus","Methicillin resistance",2925,555,236,42.522522523
+"GBR","United Kingdom of Great Britain and Northern Ireland","European Region",2020,"BLOOD","Staphylococcus aureus","Methicillin resistance",40326,1544,60,3.886010363
+"ARG","Argentina","Region of the Americas",2021,"BLOOD","Staphylococcus aureus","Methicillin resistance",9243,1841,632,34.32916893
+"AUT","Austria","European Region",2021,"BLOOD","Staphylococcus aureus","Methicillin resistance",8978,1986,62,3.121852971
+"BIH","Bosnia and Herzegovina","European Region",2021,"BLOOD","Staphylococcus aureus","Methicillin resistance",1457,72,15,20.833333333
+"BRA","Brazil","Region of the Americas",2021,"BLOOD","Staphylococcus aureus","Methicillin resistance",953,300,21,7
+"HRV","Croatia","European Region",2021,"BLOOD","Staphylococcus aureus","Methicillin resistance",2164,15,10,66.666666667
+"CYP","Cyprus","European Region",2021,"BLOOD","Staphylococcus aureus","Methicillin resistance",742,177,76,42.937853107
+"CZE","Czechia","European Region",2021,"BLOOD","Staphylococcus aureus","Methicillin resistance",7181,2279,215,9.433962264
+"EGY","Egypt","Eastern Mediterranean Region",2021,"BLOOD","Staphylococcus aureus","Methicillin resistance",31,13,12,92.307692308
+"FIN","Finland","European Region",2021,"BLOOD","Staphylococcus aureus","Methicillin resistance",9416,1470,34,2.31292517
+"GEO","Georgia","European Region",2021,"BLOOD","Staphylococcus aureus","Methicillin resistance",666,158,40,25.316455696
+"DEU","Germany","European Region",2021,"BLOOD","Staphylococcus aureus","Methicillin resistance",52195,14673,720,4.906971989
+"GRC","Greece","European Region",2021,"BLOOD","Staphylococcus aureus","Methicillin resistance",3973,535,231,43.177570093
+"IND","India","South-East Asia Region",2021,"BLOOD","Staphylococcus aureus","Methicillin resistance",34056,8130,4526,55.670356704
+"IDN","Indonesia","South-East Asia Region",2021,"BLOOD","Staphylococcus aureus","Methicillin resistance",3070,496,187,37.701612903
+"IRN","Iran (Islamic Republic of)","Eastern Mediterranean Region",2021,"BLOOD","Staphylococcus aureus","Methicillin resistance",2037,372,122,32.795698925
+"IRL","Ireland","European Region",2021,"BLOOD","Staphylococcus aureus","Methicillin resistance",4465,529,58,10.964083176
+"ITA","Italy","European Region",2021,"BLOOD","Staphylococcus aureus","Methicillin resistance",42929,9953,3073,30.875113031
+"JPN","Japan","Western Pacific Region",2021,"BLOOD","Staphylococcus aureus","Methicillin resistance",148205,26667,9348,35.054561818
+"JOR","Jordan","Eastern Mediterranean Region",2021,"BLOOD","Staphylococcus aureus","Methicillin resistance",1611,113,80,70.796460177
+"XKX","Kosovo","European Region",2021,"BLOOD","Staphylococcus aureus","Methicillin resistance",213,16,7,43.75
+"LAO","Lao People's Democratic Republic","Western Pacific Region",2021,"BLOOD","Staphylococcus aureus","Methicillin resistance",340,87,26,29.885057471
+"LVA","Latvia","European Region",2021,"BLOOD","Staphylococcus aureus","Methicillin resistance",1786,527,24,4.554079696
+"LBN","Lebanon","Eastern Mediterranean Region",2021,"BLOOD","Staphylococcus aureus","Methicillin resistance",315,43,16,37.209302326
+"LTU","Lithuania","European Region",2021,"BLOOD","Staphylococcus aureus","Methicillin resistance",2871,746,67,8.981233244
+"MLI","Mali","African Region",2021,"BLOOD","Staphylococcus aureus","Methicillin resistance",280,47,1,2.127659574
+"MLT","Malta","European Region",2021,"BLOOD","Staphylococcus aureus","Methicillin resistance",569,103,21,20.388349515
+"MOZ","Mozambique","African Region",2021,"BLOOD","Staphylococcus aureus","Methicillin resistance",78,24,6,25
+"NPL","Nepal","South-East Asia Region",2021,"BLOOD","Staphylococcus aureus","Methicillin resistance",1301,57,33,57.894736842
+"NLD","Netherlands (Kingdom of the)","European Region",2021,"BLOOD","Staphylococcus aureus","Methicillin resistance",11306,1425,23,1.614035088
+"MKD","North Macedonia","European Region",2021,"BLOOD","Staphylococcus aureus","Methicillin resistance",284,26,21,80.769230769
+"PAK","Pakistan","Eastern Mediterranean Region",2021,"BLOOD","Staphylococcus aureus","Methicillin resistance",10931,172,142,82.558139535
+"PHL","Philippines","Western Pacific Region",2021,"BLOOD","Staphylococcus aureus","Methicillin resistance",4850,1204,537,44.601328904
+"POL","Poland","European Region",2021,"BLOOD","Staphylococcus aureus","Methicillin resistance",6358,1610,266,16.52173913
+"KOR","Republic of Korea","Western Pacific Region",2021,"BLOOD","Staphylococcus aureus","Methicillin resistance",4488,772,349,45.207253886
+"RUS","Russian Federation","European Region",2021,"BLOOD","Staphylococcus aureus","Methicillin resistance",2762,405,69,17.037037037
+"SAU","Saudi Arabia","Eastern Mediterranean Region",2021,"BLOOD","Staphylococcus aureus","Methicillin resistance",1126,260,131,50.384615385
+"ZAF","South Africa","African Region",2021,"BLOOD","Staphylococcus aureus","Methicillin resistance",23334,6028,1003,16.639017916
+"SWE","Sweden","European Region",2021,"BLOOD","Staphylococcus aureus","Methicillin resistance",21163,7733,152,1.965601966
+"CHE","Switzerland","European Region",2021,"BLOOD","Staphylococcus aureus","Methicillin resistance",10322,1036,45,4.343629344
+"THA","Thailand","South-East Asia Region",2021,"BLOOD","Staphylococcus aureus","Methicillin resistance",6559,552,42,7.608695652
+"TUN","Tunisia","Eastern Mediterranean Region",2021,"BLOOD","Staphylococcus aureus","Methicillin resistance",854,232,40,17.24137931
+"ARE","United Arab Emirates","Eastern Mediterranean Region",2021,"BLOOD","Staphylococcus aureus","Methicillin resistance",3989,561,200,35.650623886
+"GBR","United Kingdom of Great Britain and Northern Ireland","European Region",2021,"BLOOD","Staphylococcus aureus","Methicillin resistance",55018,2684,181,6.74366617
+"ARG","Argentina","Region of the Americas",2022,"BLOOD","Staphylococcus aureus","Methicillin resistance",8366,1833,601,32.787779596
+"AUT","Austria","European Region",2022,"BLOOD","Staphylococcus aureus","Methicillin resistance",9738,2014,78,3.872889772
+"BIH","Bosnia and Herzegovina","European Region",2022,"BLOOD","Staphylococcus aureus","Methicillin resistance",1207,83,22,26.506024096
+"BRA","Brazil","Region of the Americas",2022,"BLOOD","Staphylococcus aureus","Methicillin resistance",776,228,72,31.578947368
+"HRV","Croatia","European Region",2022,"BLOOD","Staphylococcus aureus","Methicillin resistance",2333,26,14,53.846153846
+"CYP","Cyprus","European Region",2022,"BLOOD","Staphylococcus aureus","Methicillin resistance",837,177,99,55.93220339
+"CZE","Czechia","European Region",2022,"BLOOD","Staphylococcus aureus","Methicillin resistance",8099,2002,153,7.642357642
+"EGY","Egypt","Eastern Mediterranean Region",2022,"BLOOD","Staphylococcus aureus","Methicillin resistance",383,108,75,69.444444444
+"FIN","Finland","European Region",2022,"BLOOD","Staphylococcus aureus","Methicillin resistance",8202,1351,22,1.62842339
+"GEO","Georgia","European Region",2022,"BLOOD","Staphylococcus aureus","Methicillin resistance",1007,113,32,28.318584071
+"DEU","Germany","European Region",2022,"BLOOD","Staphylococcus aureus","Methicillin resistance",58337,2688,119,4.427083333
+"GRC","Greece","European Region",2022,"BLOOD","Staphylococcus aureus","Methicillin resistance",5450,650,267,41.076923077
+"IND","India","South-East Asia Region",2022,"BLOOD","Staphylococcus aureus","Methicillin resistance",43929,9245,5071,54.851270957
+"IDN","Indonesia","South-East Asia Region",2022,"BLOOD","Staphylococcus aureus","Methicillin resistance",5596,992,349,35.181451613
+"IRN","Iran (Islamic Republic of)","Eastern Mediterranean Region",2022,"BLOOD","Staphylococcus aureus","Methicillin resistance",2263,412,143,34.708737864
+"IRL","Ireland","European Region",2022,"BLOOD","Staphylococcus aureus","Methicillin resistance",4957,1129,119,10.540301151
+"ITA","Italy","European Region",2022,"BLOOD","Staphylococcus aureus","Methicillin resistance",52853,12243,3746,30.59707588
+"JPN","Japan","Western Pacific Region",2022,"BLOOD","Staphylococcus aureus","Methicillin resistance",158356,29287,9925,33.888756103
+"JOR","Jordan","Eastern Mediterranean Region",2022,"BLOOD","Staphylococcus aureus","Methicillin resistance",2027,59,45,76.271186441
+"XKX","Kosovo","European Region",2022,"BLOOD","Staphylococcus aureus","Methicillin resistance",189,27,16,59.259259259
+"LAO","Lao People's Democratic Republic","Western Pacific Region",2022,"BLOOD","Staphylococcus aureus","Methicillin resistance",461,34,19,55.882352941
+"LVA","Latvia","European Region",2022,"BLOOD","Staphylococcus aureus","Methicillin resistance",845,287,11,3.832752613
+"LBN","Lebanon","Eastern Mediterranean Region",2022,"BLOOD","Staphylococcus aureus","Methicillin resistance",1084,40,21,52.5
+"LTU","Lithuania","European Region",2022,"BLOOD","Staphylococcus aureus","Methicillin resistance",2952,828,78,9.420289855
+"MLI","Mali","African Region",2022,"BLOOD","Staphylococcus aureus","Methicillin resistance",286,44,6,13.636363636
+"MLT","Malta","European Region",2022,"BLOOD","Staphylococcus aureus","Methicillin resistance",706,136,27,19.852941176
+"MOZ","Mozambique","African Region",2022,"BLOOD","Staphylococcus aureus","Methicillin resistance",80,15,1,6.666666667
+"NPL","Nepal","South-East Asia Region",2022,"BLOOD","Staphylococcus aureus","Methicillin resistance",2829,42,35,83.333333333
+"NLD","Netherlands (Kingdom of the)","European Region",2022,"BLOOD","Staphylococcus aureus","Methicillin resistance",12954,1950,45,2.307692308
+"MKD","North Macedonia","European Region",2022,"BLOOD","Staphylococcus aureus","Methicillin resistance",279,52,28,53.846153846
+"PAK","Pakistan","Eastern Mediterranean Region",2022,"BLOOD","Staphylococcus aureus","Methicillin resistance",16099,2277,1527,67.061923584
+"PHL","Philippines","Western Pacific Region",2022,"BLOOD","Staphylococcus aureus","Methicillin resistance",5937,925,411,44.432432432
+"POL","Poland","European Region",2022,"BLOOD","Staphylococcus aureus","Methicillin resistance",6631,432,59,13.657407407
+"KOR","Republic of Korea","Western Pacific Region",2022,"BLOOD","Staphylococcus aureus","Methicillin resistance",4484,735,336,45.714285714
+"RUS","Russian Federation","European Region",2022,"BLOOD","Staphylococcus aureus","Methicillin resistance",4369,756,55,7.275132275
+"SAU","Saudi Arabia","Eastern Mediterranean Region",2022,"BLOOD","Staphylococcus aureus","Methicillin resistance",1962,440,229,52.045454545
+"ZAF","South Africa","African Region",2022,"BLOOD","Staphylococcus aureus","Methicillin resistance",24658,6092,1004,16.480630335
+"SWE","Sweden","European Region",2022,"BLOOD","Staphylococcus aureus","Methicillin resistance",21788,7936,147,1.852318548
+"CHE","Switzerland","European Region",2022,"BLOOD","Staphylococcus aureus","Methicillin resistance",11308,1056,43,4.071969697
+"THA","Thailand","South-East Asia Region",2022,"BLOOD","Staphylococcus aureus","Methicillin resistance",9544,763,57,7.47051114
+"TUN","Tunisia","Eastern Mediterranean Region",2022,"BLOOD","Staphylococcus aureus","Methicillin resistance",858,147,20,13.605442177
+"ARE","United Arab Emirates","Eastern Mediterranean Region",2022,"BLOOD","Staphylococcus aureus","Methicillin resistance",4194,647,258,39.876352396
+"GBR","United Kingdom of Great Britain and Northern Ireland","European Region",2022,"BLOOD","Staphylococcus aureus","Methicillin resistance",57886,3356,267,7.955899881
+"ARG","Argentina","Region of the Americas",2023,"BLOOD","Staphylococcus aureus","Methicillin resistance",9290,2257,806,35.711120957
+"AUT","Austria","European Region",2023,"BLOOD","Staphylococcus aureus","Methicillin resistance",7874,1522,65,4.270696452
+"BIH","Bosnia and Herzegovina","European Region",2023,"BLOOD","Staphylococcus aureus","Methicillin resistance",1271,116,33,28.448275862
+"BRA","Brazil","Region of the Americas",2023,"BLOOD","Staphylococcus aureus","Methicillin resistance",3041,1095,301,27.488584475
+"HRV","Croatia","European Region",2023,"BLOOD","Staphylococcus aureus","Methicillin resistance",2826,606,166,27.392739274
+"CYP","Cyprus","European Region",2023,"BLOOD","Staphylococcus aureus","Methicillin resistance",784,83,44,53.012048193
+"CZE","Czechia","European Region",2023,"BLOOD","Staphylococcus aureus","Methicillin resistance",7983,172,49,28.488372093
+"EGY","Egypt","Eastern Mediterranean Region",2023,"BLOOD","Staphylococcus aureus","Methicillin resistance",919,18,16,88.888888889
+"FIN","Finland","European Region",2023,"BLOOD","Staphylococcus aureus","Methicillin resistance",5584,253,1,0.395256917
+"GEO","Georgia","European Region",2023,"BLOOD","Staphylococcus aureus","Methicillin resistance",898,165,44,26.666666667
+"DEU","Germany","European Region",2023,"BLOOD","Staphylococcus aureus","Methicillin resistance",54645,1109,59,5.320108206
+"GRC","Greece","European Region",2023,"BLOOD","Staphylococcus aureus","Methicillin resistance",6464,922,381,41.323210412
+"IND","India","South-East Asia Region",2023,"BLOOD","Staphylococcus aureus","Methicillin resistance",41375,8373,4486,53.576973606
+"IDN","Indonesia","South-East Asia Region",2023,"BLOOD","Staphylococcus aureus","Methicillin resistance",9180,1362,546,40.088105727
+"IRN","Iran (Islamic Republic of)","Eastern Mediterranean Region",2023,"BLOOD","Staphylococcus aureus","Methicillin resistance",2925,669,230,34.379671151
+"IRL","Ireland","European Region",2023,"BLOOD","Staphylococcus aureus","Methicillin resistance",4946,947,91,9.609292503
+"ITA","Italy","European Region",2023,"BLOOD","Staphylococcus aureus","Methicillin resistance",53987,1412,416,29.461756374
+"JPN","Japan","Western Pacific Region",2023,"BLOOD","Staphylococcus aureus","Methicillin resistance",169604,30226,9828,32.515053265
+"JOR","Jordan","Eastern Mediterranean Region",2023,"BLOOD","Staphylococcus aureus","Methicillin resistance",3297,910,718,78.901098901
+"XKX","Kosovo","European Region",2023,"BLOOD","Staphylococcus aureus","Methicillin resistance",164,34,19,55.882352941
+"LAO","Lao People's Democratic Republic","Western Pacific Region",2023,"BLOOD","Staphylococcus aureus","Methicillin resistance",605,45,35,77.777777778
+"LVA","Latvia","European Region",2023,"BLOOD","Staphylococcus aureus","Methicillin resistance",807,234,7,2.991452991
+"LBN","Lebanon","Eastern Mediterranean Region",2023,"BLOOD","Staphylococcus aureus","Methicillin resistance",54,12,6,50
+"LTU","Lithuania","European Region",2023,"BLOOD","Staphylococcus aureus","Methicillin resistance",3099,810,70,8.641975309
+"MLI","Mali","African Region",2023,"BLOOD","Staphylococcus aureus","Methicillin resistance",275,50,4,8
+"MLT","Malta","European Region",2023,"BLOOD","Staphylococcus aureus","Methicillin resistance",859,133,21,15.789473684
+"MOZ","Mozambique","African Region",2023,"BLOOD","Staphylococcus aureus","Methicillin resistance",51,12,2,16.666666667
+"NPL","Nepal","South-East Asia Region",2023,"BLOOD","Staphylococcus aureus","Methicillin resistance",2740,569,446,78.383128295
+"NLD","Netherlands (Kingdom of the)","European Region",2023,"BLOOD","Staphylococcus aureus","Methicillin resistance",11748,1576,22,1.395939086
+"MKD","North Macedonia","European Region",2023,"BLOOD","Staphylococcus aureus","Methicillin resistance",283,82,34,41.463414634
+"PAK","Pakistan","Eastern Mediterranean Region",2023,"BLOOD","Staphylococcus aureus","Methicillin resistance",13338,354,252,71.186440678
+"PHL","Philippines","Western Pacific Region",2023,"BLOOD","Staphylococcus aureus","Methicillin resistance",7705,2248,908,40.391459075
+"POL","Poland","European Region",2023,"BLOOD","Staphylococcus aureus","Methicillin resistance",7277,144,22,15.277777778
+"KOR","Republic of Korea","Western Pacific Region",2023,"BLOOD","Staphylococcus aureus","Methicillin resistance",5416,832,376,45.192307692
+"RUS","Russian Federation","European Region",2023,"BLOOD","Staphylococcus aureus","Methicillin resistance",9671,1710,141,8.245614035
+"SAU","Saudi Arabia","Eastern Mediterranean Region",2023,"BLOOD","Staphylococcus aureus","Methicillin resistance",1927,301,149,49.50166113
+"ZAF","South Africa","African Region",2023,"BLOOD","Staphylococcus aureus","Methicillin resistance",26026,6874,1222,17.777131219
+"SWE","Sweden","European Region",2023,"BLOOD","Staphylococcus aureus","Methicillin resistance",21978,7915,168,2.122552116
+"CHE","Switzerland","European Region",2023,"BLOOD","Staphylococcus aureus","Methicillin resistance",12511,2527,100,3.957261575
+"THA","Thailand","South-East Asia Region",2023,"BLOOD","Staphylococcus aureus","Methicillin resistance",14722,1054,86,8.159392789
+"TUN","Tunisia","Eastern Mediterranean Region",2023,"BLOOD","Staphylococcus aureus","Methicillin resistance",1332,399,59,14.786967419
+"ARE","United Arab Emirates","Eastern Mediterranean Region",2023,"BLOOD","Staphylococcus aureus","Methicillin resistance",3959,514,213,41.439688716
+"GBR","United Kingdom of Great Britain and Northern Ireland","European Region",2023,"BLOOD","Staphylococcus aureus","Methicillin resistance",63207,3629,358,9.864976578

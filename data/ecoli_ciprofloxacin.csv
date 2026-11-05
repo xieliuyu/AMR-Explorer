@@ -1,0 +1,186 @@
+Filters
+Region filter: All
+Infection type filter: Bloodstream
+Bacterial pathogen filter: Escherichia coli
+Antibiotic filter: Ciprofloxacin
+
+Data for time series
+"Year","Specimen","PathogenName","AbTargets","Min","Q1","Median","Q3","Max"
+2018,"BLOOD","Escherichia coli","Ciprofloxacin",17.710619618,33.937545074,43.907216495,60.587349398,78.571428571
+2019,"BLOOD","Escherichia coli","Ciprofloxacin",12.147019274,25.78125,38.461538462,49.011857708,81.63538874
+2020,"BLOOD","Escherichia coli","Ciprofloxacin",10.848852317,22.615465225,38.028945731,52.860131048,75
+2021,"BLOOD","Escherichia coli","Ciprofloxacin",9.52972861,21.880081301,35.24673551,49.63245208,75
+2022,"BLOOD","Escherichia coli","Ciprofloxacin",10.449701066,26.363636364,36.138613861,50.944625407,83.333333333
+2023,"BLOOD","Escherichia coli","Ciprofloxacin",10.191458027,27.705521472,35.255032245,53.342663981,78.51269217
+
+
+Data for line plots for individual CTAs
+"Iso3","CountryTerritoryArea","WHORegionName","Year","Specimen","PathogenName","AbTargets","TotalSpecimenIsolates","InterpretableAST","Resistant","PercentResistant"
+"ARG","Argentina","Region of the Americas",2018,"BLOOD","Escherichia coli","Ciprofloxacin",7385,2107,702,33.317513052
+"BHR","Bahrain","Eastern Mediterranean Region",2018,"BLOOD","Escherichia coli","Ciprofloxacin",633,199,60,30.150753769
+"BIH","Bosnia and Herzegovina","European Region",2018,"BLOOD","Escherichia coli","Ciprofloxacin",841,243,60,24.691358025
+"BRA","Brazil","Region of the Americas",2018,"BLOOD","Escherichia coli","Ciprofloxacin",314,100,42,42
+"GEO","Georgia","European Region",2018,"BLOOD","Escherichia coli","Ciprofloxacin",216,49,24,48.979591837
+"IND","India","South-East Asia Region",2018,"BLOOD","Escherichia coli","Ciprofloxacin",14459,1841,1325,71.971754481
+"IDN","Indonesia","South-East Asia Region",2018,"BLOOD","Escherichia coli","Ciprofloxacin",1381,332,207,62.34939759
+"IRN","Iran (Islamic Republic of)","Eastern Mediterranean Region",2018,"BLOOD","Escherichia coli","Ciprofloxacin",1826,343,175,51.020408163
+"JPN","Japan","Western Pacific Region",2018,"BLOOD","Escherichia coli","Ciprofloxacin",126859,37823,11161,29.508500119
+"JOR","Jordan","Eastern Mediterranean Region",2018,"BLOOD","Escherichia coli","Ciprofloxacin",345,45,27,60
+"XKX","Kosovo","European Region",2018,"BLOOD","Escherichia coli","Ciprofloxacin",164,12,7,58.333333333
+"LAO","Lao People's Democratic Republic","Western Pacific Region",2018,"BLOOD","Escherichia coli","Ciprofloxacin",275,110,39,35.454545455
+"LBN","Lebanon","Eastern Mediterranean Region",2018,"BLOOD","Escherichia coli","Ciprofloxacin",330,188,85,45.212765957
+"MLI","Mali","African Region",2018,"BLOOD","Escherichia coli","Ciprofloxacin",422,79,25,31.64556962
+"MLT","Malta","European Region",2018,"BLOOD","Escherichia coli","Ciprofloxacin",1116,352,152,43.181818182
+"NPL","Nepal","South-East Asia Region",2018,"BLOOD","Escherichia coli","Ciprofloxacin",1202,75,33,44
+"MKD","North Macedonia","European Region",2018,"BLOOD","Escherichia coli","Ciprofloxacin",176,54,40,74.074074074
+"OMN","Oman","Eastern Mediterranean Region",2018,"BLOOD","Escherichia coli","Ciprofloxacin",631,194,85,43.81443299
+"PAK","Pakistan","Eastern Mediterranean Region",2018,"BLOOD","Escherichia coli","Ciprofloxacin",7410,983,639,65.00508647
+"PHL","Philippines","Western Pacific Region",2018,"BLOOD","Escherichia coli","Ciprofloxacin",5595,1151,393,34.144222415
+"KOR","Republic of Korea","Western Pacific Region",2018,"BLOOD","Escherichia coli","Ciprofloxacin",3519,1724,736,42.691415313
+"RUS","Russian Federation","European Region",2018,"BLOOD","Escherichia coli","Ciprofloxacin",427,81,51,62.962962963
+"SAU","Saudi Arabia","Eastern Mediterranean Region",2018,"BLOOD","Escherichia coli","Ciprofloxacin",2420,562,248,44.128113879
+"ZAF","South Africa","African Region",2018,"BLOOD","Escherichia coli","Ciprofloxacin",20691,3628,1032,28.445424476
+"CHE","Switzerland","European Region",2018,"BLOOD","Escherichia coli","Ciprofloxacin",19539,11846,2098,17.710619618
+"THA","Thailand","South-East Asia Region",2018,"BLOOD","Escherichia coli","Ciprofloxacin",2629,877,371,42.303306727
+"TUN","Tunisia","Eastern Mediterranean Region",2018,"BLOOD","Escherichia coli","Ciprofloxacin",1660,241,84,34.854771784
+"ARE","United Arab Emirates","Eastern Mediterranean Region",2018,"BLOOD","Escherichia coli","Ciprofloxacin",2452,791,431,54.487989886
+"ARG","Argentina","Region of the Americas",2019,"BLOOD","Escherichia coli","Ciprofloxacin",5783,1704,523,30.692488263
+"BHR","Bahrain","Eastern Mediterranean Region",2019,"BLOOD","Escherichia coli","Ciprofloxacin",780,198,72,36.363636364
+"BIH","Bosnia and Herzegovina","European Region",2019,"BLOOD","Escherichia coli","Ciprofloxacin",1020,289,86,29.757785467
+"BRA","Brazil","Region of the Americas",2019,"BLOOD","Escherichia coli","Ciprofloxacin",606,160,77,48.125
+"GEO","Georgia","European Region",2019,"BLOOD","Escherichia coli","Ciprofloxacin",433,78,33,42.307692308
+"IND","India","South-East Asia Region",2019,"BLOOD","Escherichia coli","Ciprofloxacin",24223,4321,3193,73.894931729
+"IDN","Indonesia","South-East Asia Region",2019,"BLOOD","Escherichia coli","Ciprofloxacin",2314,553,381,68.896925859
+"IRN","Iran (Islamic Republic of)","Eastern Mediterranean Region",2019,"BLOOD","Escherichia coli","Ciprofloxacin",2277,506,318,62.845849802
+"JPN","Japan","Western Pacific Region",2019,"BLOOD","Escherichia coli","Ciprofloxacin",136246,44133,13524,30.64373598
+"JOR","Jordan","Eastern Mediterranean Region",2019,"BLOOD","Escherichia coli","Ciprofloxacin",627,93,56,60.215053763
+"XKX","Kosovo","European Region",2019,"BLOOD","Escherichia coli","Ciprofloxacin",151,17,6,35.294117647
+"LAO","Lao People's Democratic Republic","Western Pacific Region",2019,"BLOOD","Escherichia coli","Ciprofloxacin",314,100,45,45
+"LBN","Lebanon","Eastern Mediterranean Region",2019,"BLOOD","Escherichia coli","Ciprofloxacin",218,83,44,53.012048193
+"MLI","Mali","African Region",2019,"BLOOD","Escherichia coli","Ciprofloxacin",387,78,30,38.461538462
+"MLT","Malta","European Region",2019,"BLOOD","Escherichia coli","Ciprofloxacin",624,358,148,41.340782123
+"NPL","Nepal","South-East Asia Region",2019,"BLOOD","Escherichia coli","Ciprofloxacin",2380,294,106,36.054421769
+"MKD","North Macedonia","European Region",2019,"BLOOD","Escherichia coli","Ciprofloxacin",276,80,46,57.5
+"OMN","Oman","Eastern Mediterranean Region",2019,"BLOOD","Escherichia coli","Ciprofloxacin",1007,486,208,42.798353909
+"PAK","Pakistan","Eastern Mediterranean Region",2019,"BLOOD","Escherichia coli","Ciprofloxacin",8980,746,609,81.63538874
+"PHL","Philippines","Western Pacific Region",2019,"BLOOD","Escherichia coli","Ciprofloxacin",6468,1349,597,44.255003706
+"KOR","Republic of Korea","Western Pacific Region",2019,"BLOOD","Escherichia coli","Ciprofloxacin",3646,1939,797,41.103661681
+"RUS","Russian Federation","European Region",2019,"BLOOD","Escherichia coli","Ciprofloxacin",1173,188,96,51.063829787
+"SAU","Saudi Arabia","Eastern Mediterranean Region",2019,"BLOOD","Escherichia coli","Ciprofloxacin",2528,576,285,49.479166667
+"ZAF","South Africa","African Region",2019,"BLOOD","Escherichia coli","Ciprofloxacin",20489,3960,1135,28.661616162
+"CHE","Switzerland","European Region",2019,"BLOOD","Escherichia coli","Ciprofloxacin",10424,6035,989,16.387738194
+"THA","Thailand","South-East Asia Region",2019,"BLOOD","Escherichia coli","Ciprofloxacin",5463,1727,784,45.396641575
+"TUN","Tunisia","Eastern Mediterranean Region",2019,"BLOOD","Escherichia coli","Ciprofloxacin",932,107,30,28.037383178
+"ARE","United Arab Emirates","Eastern Mediterranean Region",2019,"BLOOD","Escherichia coli","Ciprofloxacin",2464,759,372,49.011857708
+"ARG","Argentina","Region of the Americas",2020,"BLOOD","Escherichia coli","Ciprofloxacin",7376,1953,660,33.794162826
+"BHR","Bahrain","Eastern Mediterranean Region",2020,"BLOOD","Escherichia coli","Ciprofloxacin",568,127,56,44.094488189
+"BIH","Bosnia and Herzegovina","European Region",2020,"BLOOD","Escherichia coli","Ciprofloxacin",954,179,35,19.553072626
+"BRA","Brazil","Region of the Americas",2020,"BLOOD","Escherichia coli","Ciprofloxacin",584,127,54,42.519685039
+"GEO","Georgia","European Region",2020,"BLOOD","Escherichia coli","Ciprofloxacin",741,134,59,44.029850746
+"IND","India","South-East Asia Region",2020,"BLOOD","Escherichia coli","Ciprofloxacin",12371,2330,1648,70.729613734
+"IDN","Indonesia","South-East Asia Region",2020,"BLOOD","Escherichia coli","Ciprofloxacin",1676,355,236,66.478873239
+"IRN","Iran (Islamic Republic of)","Eastern Mediterranean Region",2020,"BLOOD","Escherichia coli","Ciprofloxacin",1854,392,255,65.051020408
+"JPN","Japan","Western Pacific Region",2020,"BLOOD","Escherichia coli","Ciprofloxacin",142185,50945,15424,30.275787614
+"JOR","Jordan","Eastern Mediterranean Region",2020,"BLOOD","Escherichia coli","Ciprofloxacin",446,58,31,53.448275862
+"XKX","Kosovo","European Region",2020,"BLOOD","Escherichia coli","Ciprofloxacin",161,10,2,20
+"LAO","Lao People's Democratic Republic","Western Pacific Region",2020,"BLOOD","Escherichia coli","Ciprofloxacin",422,177,53,29.943502825
+"LBN","Lebanon","Eastern Mediterranean Region",2020,"BLOOD","Escherichia coli","Ciprofloxacin",565,128,67,52.34375
+"MLI","Mali","African Region",2020,"BLOOD","Escherichia coli","Ciprofloxacin",297,72,32,44.444444444
+"MLT","Malta","European Region",2020,"BLOOD","Escherichia coli","Ciprofloxacin",530,277,98,35.379061372
+"NPL","Nepal","South-East Asia Region",2020,"BLOOD","Escherichia coli","Ciprofloxacin",1515,173,79,45.664739884
+"MKD","North Macedonia","European Region",2020,"BLOOD","Escherichia coli","Ciprofloxacin",293,49,34,69.387755102
+"OMN","Oman","Eastern Mediterranean Region",2020,"BLOOD","Escherichia coli","Ciprofloxacin",876,180,90,50
+"PAK","Pakistan","Eastern Mediterranean Region",2020,"BLOOD","Escherichia coli","Ciprofloxacin",5623,477,350,73.375262055
+"PHL","Philippines","Western Pacific Region",2020,"BLOOD","Escherichia coli","Ciprofloxacin",4276,784,327,41.709183673
+"KOR","Republic of Korea","Western Pacific Region",2020,"BLOOD","Escherichia coli","Ciprofloxacin",4095,2209,912,41.285649615
+"RUS","Russian Federation","European Region",2020,"BLOOD","Escherichia coli","Ciprofloxacin",1305,130,76,58.461538462
+"SAU","Saudi Arabia","Eastern Mediterranean Region",2020,"BLOOD","Escherichia coli","Ciprofloxacin",2458,467,225,48.17987152
+"ZAF","South Africa","African Region",2020,"BLOOD","Escherichia coli","Ciprofloxacin",23840,4317,1248,28.908964559
+"CHE","Switzerland","European Region",2020,"BLOOD","Escherichia coli","Ciprofloxacin",10256,5994,944,15.749082416
+"THA","Thailand","South-East Asia Region",2020,"BLOOD","Escherichia coli","Ciprofloxacin",6159,2200,1032,46.909090909
+"TUN","Tunisia","Eastern Mediterranean Region",2020,"BLOOD","Escherichia coli","Ciprofloxacin",917,80,26,32.5
+"ARE","United Arab Emirates","Eastern Mediterranean Region",2020,"BLOOD","Escherichia coli","Ciprofloxacin",2925,775,411,53.032258065
+"ARG","Argentina","Region of the Americas",2021,"BLOOD","Escherichia coli","Ciprofloxacin",9243,2035,619,30.417690418
+"BHR","Bahrain","Eastern Mediterranean Region",2021,"BLOOD","Escherichia coli","Ciprofloxacin",677,128,51,39.84375
+"BIH","Bosnia and Herzegovina","European Region",2021,"BLOOD","Escherichia coli","Ciprofloxacin",1457,201,70,34.825870647
+"BRA","Brazil","Region of the Americas",2021,"BLOOD","Escherichia coli","Ciprofloxacin",953,137,53,38.686131387
+"GEO","Georgia","European Region",2021,"BLOOD","Escherichia coli","Ciprofloxacin",666,82,18,21.951219512
+"IND","India","South-East Asia Region",2021,"BLOOD","Escherichia coli","Ciprofloxacin",34056,6623,4962,74.920730787
+"IDN","Indonesia","South-East Asia Region",2021,"BLOOD","Escherichia coli","Ciprofloxacin",3070,509,360,70.726915521
+"IRN","Iran (Islamic Republic of)","Eastern Mediterranean Region",2021,"BLOOD","Escherichia coli","Ciprofloxacin",2037,466,287,61.587982833
+"JPN","Japan","Western Pacific Region",2021,"BLOOD","Escherichia coli","Ciprofloxacin",148205,54155,16103,29.73501985
+"JOR","Jordan","Eastern Mediterranean Region",2021,"BLOOD","Escherichia coli","Ciprofloxacin",1611,59,35,59.322033898
+"XKX","Kosovo","European Region",2021,"BLOOD","Escherichia coli","Ciprofloxacin",213,10,4,40
+"LAO","Lao People's Democratic Republic","Western Pacific Region",2021,"BLOOD","Escherichia coli","Ciprofloxacin",340,133,41,30.827067669
+"LBN","Lebanon","Eastern Mediterranean Region",2021,"BLOOD","Escherichia coli","Ciprofloxacin",315,81,39,48.148148148
+"MLI","Mali","African Region",2021,"BLOOD","Escherichia coli","Ciprofloxacin",280,65,26,40
+"MLT","Malta","European Region",2021,"BLOOD","Escherichia coli","Ciprofloxacin",569,299,92,30.769230769
+"NPL","Nepal","South-East Asia Region",2021,"BLOOD","Escherichia coli","Ciprofloxacin",1301,147,84,57.142857143
+"MKD","North Macedonia","European Region",2021,"BLOOD","Escherichia coli","Ciprofloxacin",284,46,27,58.695652174
+"OMN","Oman","Eastern Mediterranean Region",2021,"BLOOD","Escherichia coli","Ciprofloxacin",1621,275,111,40.363636364
+"PAK","Pakistan","Eastern Mediterranean Region",2021,"BLOOD","Escherichia coli","Ciprofloxacin",10931,2605,1952,74.932821497
+"PHL","Philippines","Western Pacific Region",2021,"BLOOD","Escherichia coli","Ciprofloxacin",4850,881,419,47.559591373
+"KOR","Republic of Korea","Western Pacific Region",2021,"BLOOD","Escherichia coli","Ciprofloxacin",4488,2165,888,41.016166282
+"RUS","Russian Federation","European Region",2021,"BLOOD","Escherichia coli","Ciprofloxacin",2762,296,152,51.351351351
+"SAU","Saudi Arabia","Eastern Mediterranean Region",2021,"BLOOD","Escherichia coli","Ciprofloxacin",1126,211,104,49.289099526
+"ZAF","South Africa","African Region",2021,"BLOOD","Escherichia coli","Ciprofloxacin",23334,3940,1122,28.47715736
+"CHE","Switzerland","European Region",2021,"BLOOD","Escherichia coli","Ciprofloxacin",10322,5869,879,14.976997785
+"THA","Thailand","South-East Asia Region",2021,"BLOOD","Escherichia coli","Ciprofloxacin",6559,2408,1091,45.30730897
+"TUN","Tunisia","Eastern Mediterranean Region",2021,"BLOOD","Escherichia coli","Ciprofloxacin",854,133,48,36.090225564
+"ARE","United Arab Emirates","Eastern Mediterranean Region",2021,"BLOOD","Escherichia coli","Ciprofloxacin",3989,1283,650,50.662509743
+"ARG","Argentina","Region of the Americas",2022,"BLOOD","Escherichia coli","Ciprofloxacin",8366,2088,734,35.153256705
+"BHR","Bahrain","Eastern Mediterranean Region",2022,"BLOOD","Escherichia coli","Ciprofloxacin",582,138,61,44.202898551
+"BIH","Bosnia and Herzegovina","European Region",2022,"BLOOD","Escherichia coli","Ciprofloxacin",1207,274,91,33.211678832
+"BRA","Brazil","Region of the Americas",2022,"BLOOD","Escherichia coli","Ciprofloxacin",776,192,87,45.3125
+"GEO","Georgia","European Region",2022,"BLOOD","Escherichia coli","Ciprofloxacin",1007,202,73,36.138613861
+"IND","India","South-East Asia Region",2022,"BLOOD","Escherichia coli","Ciprofloxacin",43929,9059,6807,75.140744011
+"IDN","Indonesia","South-East Asia Region",2022,"BLOOD","Escherichia coli","Ciprofloxacin",5596,1267,883,69.692186267
+"IRN","Iran (Islamic Republic of)","Eastern Mediterranean Region",2022,"BLOOD","Escherichia coli","Ciprofloxacin",2263,632,406,64.240506329
+"JPN","Japan","Western Pacific Region",2022,"BLOOD","Escherichia coli","Ciprofloxacin",158356,56444,16921,29.978385657
+"JOR","Jordan","Eastern Mediterranean Region",2022,"BLOOD","Escherichia coli","Ciprofloxacin",2027,392,240,61.224489796
+"XKX","Kosovo","European Region",2022,"BLOOD","Escherichia coli","Ciprofloxacin",189,13,4,30.769230769
+"LAO","Lao People's Democratic Republic","Western Pacific Region",2022,"BLOOD","Escherichia coli","Ciprofloxacin",461,211,64,30.331753555
+"LBN","Lebanon","Eastern Mediterranean Region",2022,"BLOOD","Escherichia coli","Ciprofloxacin",1084,822,326,39.659367397
+"MLI","Mali","African Region",2022,"BLOOD","Escherichia coli","Ciprofloxacin",286,69,37,53.623188406
+"MLT","Malta","European Region",2022,"BLOOD","Escherichia coli","Ciprofloxacin",706,382,108,28.272251309
+"NPL","Nepal","South-East Asia Region",2022,"BLOOD","Escherichia coli","Ciprofloxacin",2829,271,135,49.815498155
+"MKD","North Macedonia","European Region",2022,"BLOOD","Escherichia coli","Ciprofloxacin",279,63,41,65.079365079
+"OMN","Oman","Eastern Mediterranean Region",2022,"BLOOD","Escherichia coli","Ciprofloxacin",2075,459,217,47.276688453
+"PAK","Pakistan","Eastern Mediterranean Region",2022,"BLOOD","Escherichia coli","Ciprofloxacin",16099,3443,2536,73.656694743
+"PHL","Philippines","Western Pacific Region",2022,"BLOOD","Escherichia coli","Ciprofloxacin",5937,1223,571,46.688470973
+"KOR","Republic of Korea","Western Pacific Region",2022,"BLOOD","Escherichia coli","Ciprofloxacin",4484,2281,942,41.297676458
+"RUS","Russian Federation","European Region",2022,"BLOOD","Escherichia coli","Ciprofloxacin",4369,681,344,50.513950073
+"SAU","Saudi Arabia","Eastern Mediterranean Region",2022,"BLOOD","Escherichia coli","Ciprofloxacin",1962,443,209,47.178329571
+"ZAF","South Africa","African Region",2022,"BLOOD","Escherichia coli","Ciprofloxacin",24658,4286,1306,30.471301913
+"CHE","Switzerland","European Region",2022,"BLOOD","Escherichia coli","Ciprofloxacin",11308,6221,910,14.627873332
+"THA","Thailand","South-East Asia Region",2022,"BLOOD","Escherichia coli","Ciprofloxacin",9544,2630,1164,44.258555133
+"TUN","Tunisia","Eastern Mediterranean Region",2022,"BLOOD","Escherichia coli","Ciprofloxacin",858,92,32,34.782608696
+"ARE","United Arab Emirates","Eastern Mediterranean Region",2022,"BLOOD","Escherichia coli","Ciprofloxacin",4194,1535,782,50.944625407
+"ARG","Argentina","Region of the Americas",2023,"BLOOD","Escherichia coli","Ciprofloxacin",9290,2431,841,34.594816948
+"BHR","Bahrain","Eastern Mediterranean Region",2023,"BLOOD","Escherichia coli","Ciprofloxacin",964,259,127,49.034749035
+"BIH","Bosnia and Herzegovina","European Region",2023,"BLOOD","Escherichia coli","Ciprofloxacin",1271,338,119,35.207100592
+"BRA","Brazil","Region of the Americas",2023,"BLOOD","Escherichia coli","Ciprofloxacin",3041,748,313,41.844919786
+"GEO","Georgia","European Region",2023,"BLOOD","Escherichia coli","Ciprofloxacin",898,204,72,35.294117647
+"IND","India","South-East Asia Region",2023,"BLOOD","Escherichia coli","Ciprofloxacin",41375,9177,6939,75.612945407
+"IDN","Indonesia","South-East Asia Region",2023,"BLOOD","Escherichia coli","Ciprofloxacin",9180,1988,1365,68.661971831
+"IRN","Iran (Islamic Republic of)","Eastern Mediterranean Region",2023,"BLOOD","Escherichia coli","Ciprofloxacin",2925,748,498,66.577540107
+"JPN","Japan","Western Pacific Region",2023,"BLOOD","Escherichia coli","Ciprofloxacin",169604,59414,17752,29.87847982
+"JOR","Jordan","Eastern Mediterranean Region",2023,"BLOOD","Escherichia coli","Ciprofloxacin",3297,456,304,66.666666667
+"XKX","Kosovo","European Region",2023,"BLOOD","Escherichia coli","Ciprofloxacin",164,24,10,41.666666667
+"LAO","Lao People's Democratic Republic","Western Pacific Region",2023,"BLOOD","Escherichia coli","Ciprofloxacin",605,251,90,35.856573705
+"LBN","Lebanon","Eastern Mediterranean Region",2023,"BLOOD","Escherichia coli","Ciprofloxacin",54,10,2,20
+"MLI","Mali","African Region",2023,"BLOOD","Escherichia coli","Ciprofloxacin",275,72,21,29.166666667
+"MLT","Malta","European Region",2023,"BLOOD","Escherichia coli","Ciprofloxacin",859,497,146,29.376257545
+"NPL","Nepal","South-East Asia Region",2023,"BLOOD","Escherichia coli","Ciprofloxacin",2740,399,228,57.142857143
+"MKD","North Macedonia","European Region",2023,"BLOOD","Escherichia coli","Ciprofloxacin",283,52,34,65.384615385
+"OMN","Oman","Eastern Mediterranean Region",2023,"BLOOD","Escherichia coli","Ciprofloxacin",2586,657,295,44.901065449
+"PAK","Pakistan","Eastern Mediterranean Region",2023,"BLOOD","Escherichia coli","Ciprofloxacin",13338,2797,2196,78.51269217
+"PHL","Philippines","Western Pacific Region",2023,"BLOOD","Escherichia coli","Ciprofloxacin",7705,1432,600,41.899441341
+"KOR","Republic of Korea","Western Pacific Region",2023,"BLOOD","Escherichia coli","Ciprofloxacin",5416,2844,1231,43.284106892
+"RUS","Russian Federation","European Region",2023,"BLOOD","Escherichia coli","Ciprofloxacin",9671,1345,718,53.382899628
+"SAU","Saudi Arabia","Eastern Mediterranean Region",2023,"BLOOD","Escherichia coli","Ciprofloxacin",1927,419,223,53.221957041
+"ZAF","South Africa","African Region",2023,"BLOOD","Escherichia coli","Ciprofloxacin",26026,4531,1567,34.583977047
+"CHE","Switzerland","European Region",2023,"BLOOD","Escherichia coli","Ciprofloxacin",12511,6846,1147,16.754309086
+"THA","Thailand","South-East Asia Region",2023,"BLOOD","Escherichia coli","Ciprofloxacin",14722,4661,2195,47.09289852
+"TUN","Tunisia","Eastern Mediterranean Region",2023,"BLOOD","Escherichia coli","Ciprofloxacin",1332,175,49,28
+"ARE","United Arab Emirates","Eastern Mediterranean Region",2023,"BLOOD","Escherichia coli","Ciprofloxacin",3959,1419,742,52.290345314
