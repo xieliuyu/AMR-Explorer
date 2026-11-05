@@ -83,3 +83,11 @@ The data in `data/` are from WHO GLASS and remain subject to WHO's terms of use;
 4. Open `app.R` and click **Run App**.
 
 Requires R (version 4.6.1 was used for development) and RStudio.
+
+## Repository Structure
+
+- `app.R` — the Shiny dashboard
+- `explore.R` — data inspection and exploration script
+- `data/` — WHO GLASS data files (CSV)
+- `renv.lock`, `renv/`, `.Rprofile` — package environment for reproducibility
+- 
