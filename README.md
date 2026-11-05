@@ -32,7 +32,7 @@ How do reported antimicrobial resistance patterns vary over time across selected
 
 ## Data Source
 
-Data were downloaded from the [WHO GLASS Dashboard](https://worldhealthorg.shinyapps.io/glass-dashboard/) on October 2026 as CSV files.
+Data were downloaded from the [WHO GLASS Dashboard](https://worldhealthorg.shinyapps.io/glass-dashboard/) in October 2026 as CSV files.
 
 | Pathogen | Antibiotic(s) | File(s) |
 |---|---|---|
@@ -50,8 +50,10 @@ Data were downloaded from the [WHO GLASS Dashboard](https://worldhealthorg.shiny
 - **R:** Data processing and analysis.
 - **RStudio:** Development environment.
 - **Shiny:** Interactive dashboard development.
-- **ggplot2:** Data visualization.
 - **GitHub:** Project version control and documentation.
+- **renv:** Package management for reproducibility.
+- **plotly:** Interactive graphs.
+- **tidyverse:** Data cleaning, filtering, and visualisation (includes dplyr and ggplot2).
 
 ## Current Features
 
@@ -68,8 +70,7 @@ The dashboard has three interactive tabs, with data available for four pathogens
 
 ## Scientific Considerations
 
-The dashboard will describe reported surveillance data rather than predict individual patient outcomes or recommend antibiotic treatments. Missing data, differences in reporting coverage, and indicator definitions will be considered during analysis and interpretation.
-
+The dashboard describes reported surveillance data rather than predicting individual patient outcomes or recommending antibiotic treatments. Missing data, differences in reporting coverage, and indicator definitions are considered during analysis and interpretation.
 ## Project Status
 
 **Status: MVP complete, validation in progress**
@@ -78,7 +79,7 @@ The core dashboard is working. Current work focuses on scientific validation of 
 
 ## AI-Assisted Development
 
-AI assistance will be documented throughout the project, including prompts, code changes, debugging issues, assumptions identified during review, and validation checks.
+AI assistance is documented throughout the project, including prompts, code changes, debugging issues, assumptions identified during review, and validation checks.
 
 ## License
 
@@ -93,3 +94,4 @@ The data in `data/` were obtained from WHO GLASS and remain subject to WHO's ter
 - `explore.R` — data inspection and exploration script
 - `data/` — WHO GLASS data files (CSV)
 - `renv.lock`, `renv/`, `.Rprofile` — package environment for reproducibility
+
