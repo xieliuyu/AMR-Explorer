@@ -81,9 +81,10 @@ The core dashboard is working. Current work focuses on scientific validation of 
 AI assistance will be documented throughout the project, including prompts, code changes, debugging issues, assumptions identified during review, and validation checks.
 
 ## License
-The code in this repository is licensed under [LICENSE NAME]; see `LICENSE.md`.
 
-The data in `data/` are from WHO GLASS and remain subject to WHO's terms of use; they are not covered by this repository's license.
+The code in this repository is licensed under the MIT License. See `LICENSE.md` for details.
+
+The data in `data/` were obtained from WHO GLASS and remain subject to WHO's terms of use. They are not covered by this repository's license.
 
 
 ## Repository Structure
