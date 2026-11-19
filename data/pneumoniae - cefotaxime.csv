@@ -1,0 +1,54 @@
+Filters
+Region filter: All
+Infection type filter: Bloodstream
+Bacterial pathogen filter: Streptococcus pneumoniae
+Antibiotic filter: Cefotaxime
+
+Data for time series
+"Year","Specimen","PathogenName","AbTargets","Min","Q1","Median","Q3","Max"
+2018,"BLOOD","Streptococcus pneumoniae","Cefotaxime",0,0,0.465116279,5.128205128,9.803921569
+2019,"BLOOD","Streptococcus pneumoniae","Cefotaxime",0,0,0.28117549,1.506166983,12.195121951
+2020,"BLOOD","Streptococcus pneumoniae","Cefotaxime",0,0,0.043668122,1.091217833,10.714285714
+2021,"BLOOD","Streptococcus pneumoniae","Cefotaxime",0,0,0,0.59430512,10
+2022,"BLOOD","Streptococcus pneumoniae","Cefotaxime",0,0,0.215517241,1.334077935,32.142857143
+2023,"BLOOD","Streptococcus pneumoniae","Cefotaxime",0,0,0,0.924653388,16.666666667
+
+
+Data for line plots for individual CTAs
+"Iso3","CountryTerritoryArea","WHORegionName","Year","Specimen","PathogenName","AbTargets","TotalSpecimenIsolates","InterpretableAST","Resistant","PercentResistant"
+"JPN","Japan","Western Pacific Region",2018,"BLOOD","Streptococcus pneumoniae","Cefotaxime",126859,2661,10,0.375798572
+"KOR","Republic of Korea","Western Pacific Region",2018,"BLOOD","Streptococcus pneumoniae","Cefotaxime",3519,48,3,6.25
+"SAU","Saudi Arabia","Eastern Mediterranean Region",2018,"BLOOD","Streptococcus pneumoniae","Cefotaxime",2420,51,5,9.803921569
+"CHE","Switzerland","European Region",2018,"BLOOD","Streptococcus pneumoniae","Cefotaxime",19539,86,0,0
+"THA","Thailand","South-East Asia Region",2018,"BLOOD","Streptococcus pneumoniae","Cefotaxime",2629,39,2,5.128205128
+"ARE","United Arab Emirates","Eastern Mediterranean Region",2018,"BLOOD","Streptococcus pneumoniae","Cefotaxime",2452,41,1,2.43902439
+"JPN","Japan","Western Pacific Region",2019,"BLOOD","Streptococcus pneumoniae","Cefotaxime",136246,2606,23,0.882578665
+"KOR","Republic of Korea","Western Pacific Region",2019,"BLOOD","Streptococcus pneumoniae","Cefotaxime",3646,36,1,2.777777778
+"SAU","Saudi Arabia","Eastern Mediterranean Region",2019,"BLOOD","Streptococcus pneumoniae","Cefotaxime",2528,33,3,9.090909091
+"CHE","Switzerland","European Region",2019,"BLOOD","Streptococcus pneumoniae","Cefotaxime",10424,21,0,0
+"THA","Thailand","South-East Asia Region",2019,"BLOOD","Streptococcus pneumoniae","Cefotaxime",5463,124,2,1.612903226
+"ARE","United Arab Emirates","Eastern Mediterranean Region",2019,"BLOOD","Streptococcus pneumoniae","Cefotaxime",2464,68,1,1.470588235
+"JPN","Japan","Western Pacific Region",2020,"BLOOD","Streptococcus pneumoniae","Cefotaxime",142185,1379,10,0.725163162
+"KOR","Republic of Korea","Western Pacific Region",2020,"BLOOD","Streptococcus pneumoniae","Cefotaxime",4095,28,3,10.714285714
+"SAU","Saudi Arabia","Eastern Mediterranean Region",2020,"BLOOD","Streptococcus pneumoniae","Cefotaxime",2458,32,1,3.125
+"CHE","Switzerland","European Region",2020,"BLOOD","Streptococcus pneumoniae","Cefotaxime",10256,16,0,0
+"THA","Thailand","South-East Asia Region",2020,"BLOOD","Streptococcus pneumoniae","Cefotaxime",6159,59,3,5.084745763
+"ARE","United Arab Emirates","Eastern Mediterranean Region",2020,"BLOOD","Streptococcus pneumoniae","Cefotaxime",2925,29,0,0
+"JPN","Japan","Western Pacific Region",2021,"BLOOD","Streptococcus pneumoniae","Cefotaxime",148205,1188,9,0.757575758
+"KOR","Republic of Korea","Western Pacific Region",2021,"BLOOD","Streptococcus pneumoniae","Cefotaxime",4488,20,2,10
+"SAU","Saudi Arabia","Eastern Mediterranean Region",2021,"BLOOD","Streptococcus pneumoniae","Cefotaxime",1126,12,1,8.333333333
+"CHE","Switzerland","European Region",2021,"BLOOD","Streptococcus pneumoniae","Cefotaxime",10322,18,0,0
+"THA","Thailand","South-East Asia Region",2021,"BLOOD","Streptococcus pneumoniae","Cefotaxime",6559,60,3,5
+"ARE","United Arab Emirates","Eastern Mediterranean Region",2021,"BLOOD","Streptococcus pneumoniae","Cefotaxime",3989,60,1,1.666666667
+"JPN","Japan","Western Pacific Region",2022,"BLOOD","Streptococcus pneumoniae","Cefotaxime",158356,1266,12,0.947867299
+"KOR","Republic of Korea","Western Pacific Region",2022,"BLOOD","Streptococcus pneumoniae","Cefotaxime",4484,28,9,32.142857143
+"SAU","Saudi Arabia","Eastern Mediterranean Region",2022,"BLOOD","Streptococcus pneumoniae","Cefotaxime",1962,33,7,21.212121212
+"CHE","Switzerland","European Region",2022,"BLOOD","Streptococcus pneumoniae","Cefotaxime",11308,13,0,0
+"THA","Thailand","South-East Asia Region",2022,"BLOOD","Streptococcus pneumoniae","Cefotaxime",9544,49,3,6.12244898
+"ARE","United Arab Emirates","Eastern Mediterranean Region",2022,"BLOOD","Streptococcus pneumoniae","Cefotaxime",4194,111,1,0.900900901
+"JPN","Japan","Western Pacific Region",2023,"BLOOD","Streptococcus pneumoniae","Cefotaxime",169604,1772,16,0.902934537
+"KOR","Republic of Korea","Western Pacific Region",2023,"BLOOD","Streptococcus pneumoniae","Cefotaxime",5416,27,2,7.407407407
+"SAU","Saudi Arabia","Eastern Mediterranean Region",2023,"BLOOD","Streptococcus pneumoniae","Cefotaxime",1927,21,0,0
+"CHE","Switzerland","European Region",2023,"BLOOD","Streptococcus pneumoniae","Cefotaxime",12511,25,0,0
+"THA","Thailand","South-East Asia Region",2023,"BLOOD","Streptococcus pneumoniae","Cefotaxime",14722,156,2,1.282051282
+"ARE","United Arab Emirates","Eastern Mediterranean Region",2023,"BLOOD","Streptococcus pneumoniae","Cefotaxime",3959,147,3,2.040816327
